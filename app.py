@@ -1,9 +1,19 @@
 from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import JSONResponse
-from extractor import extract_text  
-from classifier import predict       
+from extractor import extract_text
+from classifier import predict
+from contextlib import asynccontextmanager
+import threading
+import webbrowser
 
-app = FastAPI(title="Contract Classifier API")
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Code to run on startup
+    threading.Timer(1, lambda: webbrowser.open("http://127.0.0.1:8000/docs")).start()
+    yield
+  
+
+app = FastAPI(title="Contract Classifier API", lifespan=lifespan)
 
 @app.post("/predict")
 async def predict_contract(file: UploadFile = File(...)):

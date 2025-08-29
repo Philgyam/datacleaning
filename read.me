@@ -6,21 +6,19 @@ for a document
     since balancing the dataset is necessary to prevent biased classification
 
 
-# major challenge
-
-The finetuned model sometimes sometimes gives a false prediction because the datasets available could
-only suffice for 4 of the classes
-[SLA, NDA, Partnership, Employment]
 
 
-
-Instructions 
-
+Instructions (dont add text in brackets)
 run these commands
+
+
 python -m venv venv
 venv\Scripts\Activate            (for windows)
-source venv/bin/activate       ( for mac/linux)
+source venv/bin/activate           ( for mac/linux)
 pip install -r requirements.txt     (this might take a while )
 
 
+This should automatically open a swagger url for testing of api but before make sure model is loaded fully
+http://127.0.0.1:8000/docs
 
+OCR docs might be slow depending on device resources
