@@ -1,0 +1,13 @@
+This ai system run algorithms and uses model to get the best of classification
+for a document
+
+1. the fine tuned legal bert model trained with some dataset CUADv1 and multiple.jsonl
+2. These datasets are a mixture of real data and a synthetic dataset to help balance it
+    since balancing the dataset is necessary to prevent biased classification
+
+
+# major challenge
+
+The finetuned model sometimes sometimes gives a false prediction because the datasets available could
+only suffice for 4 of the classes
+[SLA, NDA, Partnership, Employment]

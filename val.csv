@@ -1,0 +1,1769 @@
+text,label
+"PARTNERSHIP DEED FOR STRATOS CONSULTING GROUP
+
+This PARTNERSHIP DEED is made on the 10th day of September 2024 between:
+DR. ARJUN MEHTA of 1 Science Park, Cambridge, MA
+DR. LENA PETROVA of 200 Technology Square, Cambridge, MA
+MR. DAVID COLE of 150 Main Street, Cambridge, MA
+(collectively referred to as the ""Partners"").
+
+WHEREAS the Partners have agreed to carry on the business of providing strategic management and technology consulting services in equal partnership.
+
+IT IS HEREBY AGREED as follows:
+
+1. NAME AND BUSINESS. The business shall be carried on under the name of ""Stratos Consulting Group"" with its principal office at 500 Massachusetts Ave, Cambridge, MA 02139.
+
+2. COMMENCEMENT AND DURATION. The Partnership shall commence on October 1, 2024, and shall continue until terminated by mutual agreement or by operation of law.
+
+3. CAPITAL. The initial capital of the Partnership shall be $300,000, contributed equally by the Partners in cash ($100,000 each). No interest shall be paid on capital.
+
+4. PROFITS AND LOSSES. The net profits and losses of the Partnership shall be divided equally among the Partners.
+
+5. BANKING. The banking account of the Partnership shall be maintained at Silicon Valley Bank, and all cheques shall be signed by any two Partners.
+
+6. MANAGEMENT AND AUTHORITY. All Partners shall actively participate in the management of the business. Each Partner has the authority to bind the Partnership in contracts up to $50,000. Decisions above this threshold require a majority vote.
+
+7. DRAWINGS. Each Partner shall be entitled to draw $12,000 per month as an advance against their share of profits, accounted for at the end of each financial year.
+
+8. ACCOUNTS. Proper books of account shall be kept and shall be available for inspection by any Partner. The accounting year shall end on December 31st.
+
+9. RETIREMENT. A Partner may retire from the Partnership by giving six months' notice in writing to the other Partners.
+
+10. EXPULSION. A Partner may be expelled for gross misconduct or persistent neglect of duties by a unanimous vote of the other Partners.
+
+11. GOODWILL. The goodwill of the business shall be deemed to be the property of the Partnership.
+
+12. RESTRICTIONS. A Partner shall not, without the consent of the others, engage in any business competing with the Partnership while a member thereof.
+
+IN WITNESS WHEREOF, the Partners have set their hands the day and year first above written.
+
+SIGNED by DR. ARJUN MEHTA
+_________________________
+
+SIGNED by DR. LENA PETROVA
+_________________________
+
+SIGNED by MR. DAVID COLE
+_________________________",Partnership
+"INVESTMENT ADVISOR EMPLOYMENT AGREEMENT
+
+This Employment Agreement (""Agreement"") is made as of October 1, 2024, by and between Harbor Financial Services, Inc., a registered broker-dealer (CRD # 12345), with its main office at 200 Bay Street, Jersey City, NJ 07302 (""Employer""), and Benjamin Carter, a registered representative (CRD # 67890), residing at 88 Wall Street, Apartment 4B, Jersey City, NJ 07305, SSN ###-##-#### (""Advisor"").
+
+1. EMPLOYMENT AND DUTIES. Employer employs Advisor as an Investment Advisor. Advisor’s duties include providing investment advice to clients, managing client portfolios, soliciting new clients, and ensuring all activities comply with SEC and FINRA regulations.
+
+2. COMPENSATION.
+   a. Draw Against Commission. Advisor will receive a bi-weekly draw of $3,000 against future commissions and fees.
+   b. Commissions. Advisor will earn commissions based on the following schedule: 40% on initial product sales, 35% on fee-based advisory assets under management (AUM), and 5% on trailing commissions.
+   c. Transition Bonus. Advisor will receive a one-time transition bonus of $25,000, payable after 90 days of employment, provided a minimum of $5 million in AUM is transferred to Employer.
+
+3. LICENSING AND COMPLIANCE. Advisor must maintain all necessary licenses (Series 7, Series 66, etc.) in good standing at his own expense. Advisor must strictly adhere to all Employer policies and procedures manuals and federal securities laws. All correspondence and advertising must be pre-approved by the Compliance Department.
+
+4. NON-SOLICITATION. For a period of two (2) years following the termination of employment, Advisor shall not solicit any clients of Employer that were serviced by Advisor or any other employee of Employer.
+
+5. RECORDS AND PROPERTY. All client records, lists, and data are the sole property of Employer. Upon termination, Advisor must immediately return all company property.
+
+6. TERMINATION. This is an at-will employment agreement. Employer may terminate Advisor immediately for cause for any violation of FINRA rules or company compliance policies.
+
+7. ARBITRATION. Any dispute arising out of this Agreement shall be settled by binding arbitration in accordance with the rules of FINRA.
+
+[Signature Blocks Follow]",Employment
+"SILVER SUPPORT PACKAGE - MANAGED WORKPLACE SERVICES
+
+This document outlines the service levels for the Silver-tier Managed Workplace Services provided by ITPartner Corp. This package includes all Bronze features with enhanced support.
+
+1. SERVICE DESCRIPTION
+Coverage for 50 users. Includes all Bronze features plus: support for business-specific applications (e.g., AutoCAD, Sage), mobile device management for company-owned phones, and after-hours support for Severity 1 issues. Support hours: 12x5 (7 AM - 7 PM local time).
+
+2. PERFORMANCE TARGETS
+- **All Bronze Targets:** Must be met.
+- **Helpdesk Response Time (Enhanced):** 
+  - Priority 2 (Major Impact): Response within 2 business hours.
+  - Priority 1 (Critical - Business Stopped): Response within 1 hour, 24/5.
+- **Device Provisioning:** New user device setup and configuration completed within 3 business days of request.
+
+3. SERVICE CREDITS
+If the Priority 1 response time target is missed for a confirmed outage, Customer is eligible for a credit of 5% of the monthly fee per occurrence, up to a maximum of 20% of the monthly fee.",SLA
+"ENTERPRISE INTERNET SERVICES SERVICE LEVEL AGREEMENT
+
+This SLA governs the dedicated internet access (DIA) circuit provided by NetLink Communications to Global Enterprises Inc. for its primary headquarters location.
+
+1. SERVICE DESCRIPTION
+Provider will supply a 1 Gbps symmetrical, fiber-based Dedicated Internet Access circuit with a static IP block. The service includes proactive monitoring and CPE management.
+
+2. PERFORMANCE COMMITMENTS
+- **Network Availability:** 99.95% monthly, measured from the handoff at the Customer's premises to the Provider's edge router.
+- **Network Latency:** Average round-trip latency within the continental US shall not exceed 45ms.
+- **Packet Delivery:** Packet loss shall not exceed 0.1% over any calendar month.
+- **Mean Time to Repair (MTTR):** 4 hours from trouble ticket verification.
+
+3. MEASUREMENT
+Performance is measured continuously by Provider's network operations center (NOC) using dedicated probes. Availability is calculated based on the percentage of time the circuit is passing traffic. Latency and packet loss are measured through continuous ICMP and synthetic traffic monitoring.
+
+4. SERVICE CREDIT POLICY
+If Provider fails to meet the Availability commitment in any month, Customer will receive a credit as follows:
+- < 99.95% but >= 99.0%: Credit equal to one day's MRC
+- < 99.0% but >= 98.0%: Credit equal to three days' MRC
+- < 98.0%: Credit equal to seven days' MRC
+Credits are applied to the next invoice. Total credits shall not exceed 30 days' MRC in any calendar year.
+
+5. REPAIR AND ESCALATION
+Trouble tickets must be opened by calling the 24/7 NOC. Provider will respond and begin diagnostic procedures within 15 minutes for an outage. A dedicated escalation path is provided for Major Outages (affecting >50% of capacity for >15 minutes).",SLA
+"ENTERPRISE HELP DESK / IT SUPPORT SLA
+
+This Service Level Agreement defines the support services provided by the Global IT Help Desk to all internal employees of Contoso Corporation.
+
+SERVICE HOURS: The Help Desk provides support 24 hours a day, 7 days a week, 365 days a year.
+
+INCIDENT CLASSIFICATION AND TARGETS:
+- Severity 1 (Critical - Business Stopping): Initial response within 15 minutes. Continuous effort until resolution. Target resolution: 4 hours. Example: Total site network outage, critical application failure affecting all users.
+- Severity 2 (High - Major Impact): Initial response within 1 hour. Target resolution: 8 business hours. Example: Departmental server down, key software malfunction for a team.
+- Severity 3 (Medium - Minor Impact): Initial response within 4 business hours. Target resolution: 3 business days. Example: Single user application issue, peripheral device failure.
+- Severity 4 (Low - Request): Initial response within 8 business hours. Target resolution: 5 business days. Example: How-to questions, new software installation requests.
+
+SUPPORT CHANNELS: Phone, email, web portal, and live chat. First call resolution rate target is 75% for Severity 3 and 4 incidents.
+
+ESCALATION PATH:
+Level 1: Help Desk Analyst -> Level 2: Desktop Support / Network Specialist -> Level 3: Engineering Team -> Level 4: Vendor Support
+Management escalation occurs if targets are missed by 50%.
+
+REPORTING: Monthly performance reports are published on the IT portal, detailing volume by severity, average response and resolution times, first call resolution rate, and customer satisfaction scores. Quarterly business reviews are held with department heads.",SLA
+"PARTNERSHIP AGREEMENT
+
+This GENERAL PARTNERSHIP AGREEMENT (the ""Agreement"") is made and entered into as of March 1, 2024, by and between JAMES ANDERSON, ESQ. (""Anderson""), with an address at 100 Legal Way, Boston, Massachusetts 02108; REBECCA MARTINEZ, ESQ. (""Martinez""), with an address at 200 Court Street, Boston, Massachusetts 02109; and DAVID WILSON, ESQ. (""Wilson""), with an address at 300 Justice Avenue, Boston, Massachusetts 02110 (collectively referred to as the ""Partners"").
+
+RECITALS
+
+WHEREAS, the Partners are licensed attorneys in the Commonwealth of Massachusetts; and
+
+WHEREAS, the Partners desire to form a general partnership to practice law under the name ""Anderson, Martinez & Wilson LLP"" specializing in corporate law, intellectual property, and commercial litigation;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, the Partners agree:
+
+ARTICLE I: PARTNERSHIP FORMATION
+1.1 Name. The partnership shall operate under the name ""Anderson, Martinez & Wilson LLP.""
+1.2 Term. The partnership shall commence on March 1, 2024, and continue until terminated.
+1.3 Principal Office. The principal office shall be located at 500 Business District, Boston, Massachusetts 02111.
+1.4 Purpose. The partnership shall engage in the practice of law in Massachusetts.
+
+ARTICLE II: CAPITAL CONTRIBUTIONS
+2.1 Initial Contributions. Each Partner shall contribute the following:
+- Anderson: $200,000 cash
+- Martinez: $150,000 cash plus library valued at $50,000
+- Wilson: $150,000 cash
+2.2 Capital Accounts. Separate capital accounts shall be maintained.
+2.3 Interest. No interest shall be paid on capital contributions.
+
+ARTICLE III: PROFIT AND LOSS ALLOCATION
+3.1 Distribution. Net profits and losses shall be allocated as follows:
+- Anderson: 40%
+- Martinez: 30%
+- Wilson: 30%
+3.2 Draws. Partners shall receive monthly draws against profits as follows: Anderson $15,000; Martinez $12,000; Wilson $12,000.
+3.3 Year-End Adjustment. Annual reconciliation shall adjust for actual profits.
+
+ARTICLE IV: MANAGEMENT AND VOTING
+4.1 Management Committee. All Partners shall serve on the Management Committee.
+4.2 Decision Making. Major decisions require majority vote based on profit percentage ownership.
+4.3 Client Matters. Each Partner shall have primary responsibility for their client matters.
+
+ARTICLE V: PARTNER RESPONSIBILITIES
+5.1 Time Commitment. Each Partner shall devote substantially all professional time to the partnership.
+5.2 Business Development. Partners shall equally participate in business development activities.
+5.3 Administrative Duties. Administrative responsibilities shall be rotated quarterly.
+
+ARTICLE VI: BOOKS AND RECORDS
+6.1 Maintenance. The partnership shall maintain complete books and records at its principal office.
+6.2 Fiscal Year. The fiscal year shall be January 1 to December 31.
+6.3 Audits. Accounts shall be audited annually by Deloitte & Touche LLP.
+
+ARTICLE VII: WITHDRAWAL OR DEATH
+7.1 Voluntary Withdrawal. A Partner may withdraw upon 180 days written notice.
+7.2 Purchase Price. The purchase price for a withdrawn Partner's interest shall be the balance in their capital account plus 1x their average annual earnings for the previous three years.
+7.3 Payment Terms. Payment shall be made over 36 months with interest at 5% per annum.
+
+ARTICLE VIII: DISSOLUTION
+8.1 Events. The partnership shall dissolve upon: (a) unanimous vote; (b) death, disability, or withdrawal of a Partner if remaining Partners elect not to continue; (c) December 31, 2039.
+8.2 Liquidation. Upon dissolution, assets shall be liquidated and distributed according to capital account balances.
+
+ARTICLE IX: GENERAL PROVISIONS
+9.1 Non-Competition. For two years after withdrawal, a Partner shall not practice law within 25 miles of Boston.
+9.2 Client Notice. Upon withdrawal, reasonable efforts shall be made to notify clients.
+9.3 Dispute Resolution. Disputes shall be mediated in Boston, Massachusetts.
+9.4 Governing Law. This Agreement shall be governed by Massachusetts law.
+
+IN WITNESS WHEREOF, the Partners have executed this Agreement.
+
+_________________________
+James Anderson, Esq.
+
+_________________________
+Rebecca Martinez, Esq.
+
+_________________________
+David Wilson, Esq.",Partnership
+"PARTNERSHIP AGREEMENT OF WELLSPRING BEHAVIORAL HEALTH, LLP
+
+This Limited Liability Partnership Agreement is made as of January 15, 2025, by and between DR. ARJUN PATEL, Ph.D., LP (""Patel""), DR. MARIA FLORES, Psy.D., LP (""Flores""), and DR. KEVIN IRVING, LICSW (""Irving"").
+
+RECITALS
+WHEREAS, the Partners are licensed mental health professionals; and
+WHEREAS, they desire to form an LLP to provide integrated behavioral health services, including psychological testing, therapy, and clinical social work;
+
+ARTICLE I: THE PRACTICE
+1.1 Name. Wellspring Behavioral Health, LLP.
+1.2 Purpose. To provide outpatient mental health services.
+1.3 Offices. 700 Healing Way, Minneapolis, MN 55401.
+1.4 Compliance. The LLP shall maintain strict compliance with HIPAA, state licensing boards, and insurance provider agreements.
+
+ARTICLE II: CAPITAL AND FINANCES
+2.1 Initial Contributions. Each Partner shall contribute $85,000, for a total of $255,000, to cover startup costs, leasehold improvements, and initial operating capital.
+2.2 Compensation. Partner compensation shall be determined by a formula: (Individual Collected Revenue - Direct Expenses) + Share of Practice Profit Pool. Direct expenses include the Partner's own malpractice insurance and licensure fees. The Profit Pool is 15% of the LLP's net profit, distributed based on a points system for administrative duties.
+2.3 Benefits. The LLP shall establish a 401(k) plan with a 3% match and pay 75% of the premium for a group health insurance plan.
+
+ARTICLE III: MANAGEMENT
+3.1 Clinical Director. Dr. Patel shall serve as the initial Clinical Director for a two-year term, responsible for clinical supervision and quality assurance.
+3.2 Managing Partner. Dr. Flores shall serve as the initial Managing Partner, responsible for billing, HR, and operations.
+3.3 Voting. Clinical decisions are made independently. Business decisions require a majority vote based on a one-partner, one-vote structure. Major decisions (e.g., adding a partner, moving offices) require unanimity.
+
+ARTICLE IV: LEAVE AND DISABILITY
+4.1 Vacation. Each Partner is entitled to four (4) weeks of paid vacation and two (2) weeks for continuing education.
+4.2 Disability. The LLP shall maintain disability insurance for each Partner covering 60% of their average compensation.
+
+ARTICLE V: WITHDRAWAL
+5.1 Restrictive Covenant. For two (2) years after withdrawal, a Partner shall not practice within a 10-mile radius of the LLP's office or solicit any of the LLP's patients or employees.
+5.2 Buyout. Upon withdrawal, the Partner shall be paid the balance of their capital account. Payment for their share of accounts receivable and work in progress shall be paid over 24 months.
+
+ARTICLE VI: LIABILITY
+6.1 Professional Liability. Each Partner is responsible for their own professional conduct and malpractice insurance. The LLP shall maintain general liability and cyber liability insurance.
+
+IN WITNESS WHEREOF, the Partners have executed this Agreement.
+
+_________________________
+Dr. Arjun Patel, Ph.D., LP
+
+_________________________
+Dr. Maria Flores, Psy.D., LP
+
+_________________________
+Dr. Kevin Irving, LICSW",Partnership
+"PAYMENT PROCESSING SERVICES AGREEMENT
+
+This Payment Processing Services Agreement (""Agreement"") is between PAYMENTCORE INC. (""Processor""), a registered payment facilitator, and ECOMMERCE RETAIL LLC (""Merchant"").
+
+1. SERVICES. Processor agrees to provide payment gateway and processing services to Merchant, enabling Merchant to accept credit, debit, and alternative payment methods for online transactions.
+
+2. FEES. Merchant shall pay Processor the fees outlined in Schedule A, including: Discount Rate: 2.65% + $0.30 per transaction; Monthly Gateway Fee: $25.00; Chargeback Fee: $25.00 per chargeback.
+
+3. FUNDS SETTLEMENT. Processor will settle funds from authorized sales to Merchant's designated bank account within two (2) business days of transaction processing.
+
+4. RESERVE. Processor has the right to establish and maintain a Reserve Account to secure Merchant's obligations. The initial reserve will be set at 10% of processed volume, held for a rolling 90-day period.
+
+5. SECURITY COMPLIANCE. Merchant agrees to comply with the Payment Card Industry Data Security Standards (PCI DSS) at all times. Merchant is responsible for any fines or penalties resulting from its non-compliance.
+
+6. TERM. This Agreement commences on the Effective Date and continues for thirty-six (36) months. It will automatically renew for successive one-year terms unless terminated by either party with sixty (60) days written notice prior to the end of the then-current term.
+
+7. TERMINATION. Processor may terminate this Agreement immediately upon a breach of PCI DSS, a material increase in chargebacks, or any event that Processor believes presents an unacceptable financial or reputational risk.
+
+8. DATA. Processor may use aggregated, anonymized transaction data for analytical purposes. All cardholder data remains confidential.
+
+9. LIMITATION OF LIABILITY. Processor's total liability under this Agreement is limited to the total fees paid by Merchant in the six (6) months preceding the event giving rise to the claim.
+
+ECOMMERCE RETAIL LLC
+By: _________________________
+Name: Jennifer Lee
+Title: Founder
+
+PAYMENTCORE INC.
+By: _________________________
+Name: David Singh
+Title: Vice President, Merchant Services",Vendor
+"This Non-Disclosure Agreement (the 'Agreement') is entered into to protect sensitive and proprietary information disclosed by either party. The Recipient agrees not to divulge, publish, or otherwise make available any trade secrets, confidential data, or privileged materials obtained during the course of discussions. Such confidentiality obligations include, but are not limited to, financial records, intellectual property, and restricted technical specifications. Breach of this covenant will constitute irreparable harm and may entitle the Disclosing Party to injunctive relief in addition to monetary damages.",Non-disclosure Agreement
+"NDA #14 – Real Estate Development Deal
+
+REAL ESTATE CONFIDENTIALITY AGREEMENT
+
+Effective Date: July 8, 2025
+
+Between:
+**UrbanVista Properties Inc.**
+255 Park Avenue, New York, NY 10016
+Represented by: Steven Carter, Managing Director
+
+And:
+**Heritage Development Group LLC**
+700 Brickell Avenue, Miami, FL 33131
+Represented by: Amanda Davis, Partner
+
+Purpose: To discuss joint development of commercial real estate project in Manhattan.
+
+1. **Confidential Information**: Property valuations, zoning applications, financing structures, architectural plans.
+2. **Use Restrictions**: Information may only be used for evaluating development project.
+3. **Return**: Information returned upon demand.
+4. **Term**: Five (5) years.
+5. **Governing Law**: New York.
+
+_________________________
+Steven Carter, Managing Director
+UrbanVista Properties Inc.
+
+_________________________
+Amanda Davis, Partner
+Heritage Development Group LLC",Non-disclosure Agreement
+"MARKETING AGENCY PARTNERSHIP AGREEMENT
+
+This PARTNERSHIP AGREEMENT (the ""Agreement"") is made and entered into as of November 1, 2024, by and between CREATIVE MINDS GROUP, LLC (""Creative""), a Florida limited liability company with its principal office at 100 Design District, Miami, Florida 33139, and STRATEGIC GROWTH PARTNERS, INC. (""Strategic""), a Florida corporation with its principal office at 200 Marketing Avenue, Miami, Florida 33140 (collectively, the ""Partners"").
+
+RECITALS
+
+WHEREAS, Creative has expertise in graphic design, branding, and creative services; and
+
+WHEREAS, Strategic has expertise in digital marketing, SEO, and business development; and
+
+WHEREAS, the Partners wish to combine their capabilities to offer integrated marketing services;
+
+NOW, THEREFORE, the Partners agree as follows:
+
+ARTICLE I: PARTNERSHIP
+1.1 Formation. The Partners form a limited liability partnership (the ""Partnership"") under Florida law.
+1.2 Name. The Partnership shall operate under the name ""Innovate Marketing Partners, LLP.""
+1.3 Purpose. The purpose is to provide integrated marketing services including creative design, digital marketing, and strategic consulting.
+1.4 Term. The Partnership shall continue until terminated as provided herein.
+
+ARTICLE II: CAPITAL CONTRIBUTIONS
+2.1 Initial Contributions. The Partners shall contribute:
+- Creative: Intellectual property, design assets, and client relationships valued at $350,000
+- Strategic: Digital marketing platforms, client lists, and $150,000 cash
+2.2 Additional Contributions. Additional capital requirements shall be contributed 60% by Creative and 40% by Strategic.
+2.3 Capital Accounts. Separate capital accounts shall be maintained.
+
+ARTICLE III: PROFIT ALLOCATION
+3.1 Allocation. Net profits shall be allocated 60% to Creative and 40% to Strategic.
+3.2 Distributions. Distributions shall be made monthly based on collected revenues.
+3.3 Draws. Each Partner shall receive a monthly draw of $10,000 against profits.
+
+ARTICLE IV: MANAGEMENT
+4.1 Management Committee. The Partnership shall be managed by a committee of two representatives from each Partner.
+4.2 Creative Direction. Creative shall be responsible for all creative direction and design quality.
+4.3 Strategic Direction. Strategic shall be responsible for client acquisition and digital strategy.
+4.4 Major Decisions. Major decisions require mutual consent, including: (a) client acceptance over $100,000; (b) hiring key staff; (c) capital expenditures over $50,000; (d) annual budget approval.
+
+ARTICLE V: CLIENT SERVICES
+5.1 Service Standards. All services shall meet industry standards and client expectations.
+5.2 Client Ownership. Client relationships are property of the Partnership.
+5.3 Non-Solicitation. Partners shall not solicit Partnership clients for two years after withdrawal.
+
+ARTICLE VI: INTELLECTUAL PROPERTY
+6.1 IP Ownership. All intellectual property developed for the Partnership shall be owned by the Partnership.
+6.2 License. Partners grant the Partnership a license to use their pre-existing intellectual property.
+6.3 Protection. The Partnership shall protect its intellectual property through appropriate registrations.
+
+ARTICLE VII: WITHDRAWAL
+7.1 Voluntary Withdrawal. A Partner may withdraw upon 90 days written notice.
+7.2 Buyout. The Partnership may purchase the withdrawing Partner's interest based on 1.5x average annual earnings.
+7.3 Client Transition. Withdrawing Partner shall assist in transitioning client relationships.
+
+ARTICLE VIII: DISSOLUTION
+8.1 Dissolution Events. The Partnership shall dissolve upon: (a) mutual agreement; (b) bankruptcy of either Partner; (c) expiration of term.
+8.2 Wind Up. Upon dissolution, assets shall be liquidated and proceeds distributed according to capital accounts.
+
+ARTICLE IX: GENERAL PROVISIONS
+9.1 Non-Competition. During the Partnership and for one year thereafter, Partners shall not engage in competing marketing services within 50 miles of Miami.
+9.2 Confidentiality. Partners shall maintain confidentiality of all client information and proprietary methods.
+9.3 Governing Law. Florida law shall govern this Agreement.
+
+IN WITNESS WHEREOF, the Partners have executed this Agreement.
+
+CREATIVE MINDS GROUP, LLC
+By: _________________________
+Name: Emily Chen
+Title: Creative Director
+
+STRATEGIC GROWTH PARTNERS, INC.
+By: _________________________
+Name: David Martinez
+Title: CEO",Partnership
+"EMPLOYEE CONFIDENTIALITY AGREEMENT
+
+This Employee Confidentiality Agreement (""Agreement"") is made effective as of May 15, 2024, between:
+
+QUANTUM COMPUTING TECHNOLOGIES CORP., with principal offices at 555 Quantum Lane, Austin, Texas 78701 (""Company"")
+
+and
+
+David Thompson (""Employee""), residing at 888 Tech Street, Austin, Texas 78702
+
+BACKGROUND
+Employee is being hired as Senior Quantum Algorithm Developer and will have access to Company's proprietary information, trade secrets, and confidential data.
+
+AGREEMENT
+1. CONFIDENTIAL INFORMATION
+Confidential Information includes all non-public information that Employee may learn, discover, or develop during employment, including: quantum computing algorithms, source code, hardware designs, research data, business plans, financial information, customer lists, marketing strategies, and any information marked as confidential.
+
+2. CONFIDENTIALITY OBLIGATIONS
+Employee agrees to: (a) maintain strict confidentiality of all Confidential Information; (b) use Confidential Information only for Company business purposes; (c) not disclose Confidential Information to any third party without authorization; (d) return all Confidential Information upon termination of employment; (e) not use Confidential Information for personal benefit or the benefit of any third party.
+
+3. INTELLECTUAL PROPERTY
+All inventions, discoveries, and developments made by Employee during employment that relate to Company's business shall be the sole property of Company.
+
+4. NON-COMPETE
+Employee agrees not to engage in any competitive activity with Company for one (1) year following termination of employment within the quantum computing industry.
+
+5. TERM
+This Agreement shall remain in effect during Employee's employment and for three (3) years following termination.
+
+6. GOVERNING LAW
+This Agreement shall be governed by Texas law.
+
+ACKNOWLEDGMENT
+Employee acknowledges receiving, reading, and understanding this Agreement.
+
+COMPANY:
+QUANTUM COMPUTING TECHNOLOGIES CORP.
+
+By: _________________________
+Name: Jennifer Martinez
+Title: Chief Technology Officer
+
+EMPLOYEE:
+_________________________
+David Thompson
+Date: _________________________",Non-disclosure Agreement
+"ACCOUNTING FIRM PARTNERSHIP AGREEMENT
+
+This PARTNERSHIP AGREEMENT (the ""Agreement"") is made and entered into as of September 1, 2024, by and between PRECISION ACCOUNTING GROUP, PLC (""Precision""), a Virginia professional corporation with its principal office at 100 Audit Trail, Richmond, Virginia 23219, and the certified public accountants listed on Exhibit A (""New Partners"").
+
+RECITALS
+
+WHEREAS, Precision is an established accounting firm providing audit, tax, and advisory services; and
+
+WHEREAS, the New Partners are certified public accountants who have been employed by Precision; and
+
+WHEREAS, the parties wish to form a partnership whereby the New Partners will become equity partners in the firm;
+
+NOW, THEREFORE, the parties agree as follows:
+
+ARTICLE I: PARTNERSHIP STRUCTURE
+1.1 Formation. The parties form a limited liability partnership (the ""Partnership"") under Virginia law.
+1.2 Name. The Partnership shall operate under the name ""Precision Accounting Partners, LLP.""
+1.3 Purpose. The purpose is to provide accounting, auditing, tax, and consulting services.
+1.4 Term. The Partnership shall continue until terminated as provided herein.
+
+ARTICLE II: PARTNER ADMISSION
+2.1 New Partners. The New Partners are: Emily Roberts, CPA; Michael Chen, CPA; and Jessica Williams, CPA.
+2.2 Capital Contributions. Each New Partner shall contribute $150,000 cash for partnership interest.
+2.3 Equity Percentage. The equity percentages shall be: Precision 70%; Roberts 12%; Chen 9%; Williams 9%.
+
+ARTICLE III: PROFIT ALLOCATION
+3.1 Profit Pool. Net profits shall be allocated based on a points system considering: (a) equity percentage (50%); (b) originated business (25%); (c) managed business (25%).
+3.2 Distributions. Distributions shall be made quarterly based on collected revenues.
+3.3 Draws. Partners shall receive monthly draws against their share of profits.
+
+ARTICLE IV: MANAGEMENT
+4.1 Executive Committee. The Partnership shall be managed by an Executive Committee consisting of three partners elected annually.
+4.2 Managing Partner. The Managing Partner shall be elected by majority vote for a two-year term.
+4.3 Decision Making. Major decisions require 75% vote of partnership interests.
+
+ARTICLE V: PARTNER RESPONSIBILITIES
+5.1 Billable Hours. Each partner shall maintain at least 1,600 billable hours annually.
+5.2 Business Development. Each partner shall originate at least $500,000 in new business annually.
+5.3 Professional Standards. All partners shall comply with AICPA and Virginia Board of Accountancy standards.
+
+ARTICLE VI: RETIREMENT AND WITHDRAWAL
+6.1 Normal Retirement. Normal retirement age is 65, with phased retirement options available.
+6.2 Early Withdrawal. Early withdrawal requires 180 days notice and may be subject to penalty.
+6.3 Buyout. The Partnership shall purchase a withdrawing partner's interest based on a formula considering capital account balance and average earnings multiplier.
+
+ARTICLE VII: DISSOLUTION
+7.1 Dissolution Events. The Partnership may dissolve upon: (a) 75% vote of partnership interests; (b) loss of CPA licensure by majority of partners; (c) bankruptcy.
+7.2 Succession Planning. The Partnership shall maintain a continuing succession plan.
+
+ARTICLE VIII: GENERAL PROVISIONS
+8.1 Professional Liability Insurance. The Partnership shall maintain $10,000,000 in professional liability coverage.
+8.2 Peer Review. The Partnership shall undergo triennial peer review as required.
+8.3 Non-Competition. Withdrawing partners shall not solicit Partnership clients for three years.
+8.4 Governing Law. Virginia law shall govern this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+PRECISION ACCOUNTING GROUP, PLC
+By: _________________________
+Name: Robert Thompson, CPA
+Title: Managing Partner
+
+NEW PARTNERS:
+_________________________
+Emily Roberts, CPA
+
+_________________________
+Michael Chen, CPA
+
+_________________________
+Jessica Williams, CPA",Partnership
+"NDA #18 – Government Contract Bidding
+
+GOVERNMENT PROCUREMENT NON-DISCLOSURE AGREEMENT
+
+Date: August 25, 2025
+
+Between:
+**DefenseTech Solutions Corp.**
+400 Independence Avenue, Washington, DC 20024
+Represented by: Robert Chambers, Vice President
+
+And:
+**United States Department of Defense (DoD)**
+Represented by: Lt. Col. James Hart, Contracting Officer
+
+Purpose: To facilitate confidential exchange of technical data for government contract bidding.
+
+1. **Confidential Information**: Technical proposals, defense schematics, security procedures.
+2. **Restrictions**: Contractor shall not disclose Confidential Information to non-cleared personnel.
+3. **Exceptions**: Classified materials covered separately by DoD protocols.
+4. **Term**: Ten (10) years.
+5. **Governing Law**: Federal laws of the United States.
+
+_________________________
+Robert Chambers, VP
+DefenseTech Solutions Corp.
+
+_________________________
+Lt. Col. James Hart, Contracting Officer
+United States DoD",Non-disclosure Agreement
+"HYBRID CLOUD CONNECTIVITY SLA
+
+This SLA governs the dedicated, private network connection (AWS Direct Connect / Azure ExpressRoute) provisioned by ConnectGlobal between Customer's data center and the public cloud region US-West-2.
+
+1. SERVICE DESCRIPTION
+Provider supplies and manages a 1 Gbps dedicated port providing private, low-latency, high-throughput connectivity to the cloud provider's network, bypassing the public internet.
+
+2. PERFORMANCE COMMITMENTS
+- **Connection Availability:** 99.95% uptime for the physical port and logical connection to the cloud provider's edge.
+- **Latency:** Round-trip latency between Customer's data center and the cloud region is < 10ms.
+- **Packet Loss:** < 0.05% packet loss per calendar month.
+- **Bursting:** The connection supports bursting up to 2 Gbps for up to 30 minutes per day.
+- **Provisioning Time:** New connection is provisioned and ready for testing within 30 business days of order acceptance.
+
+3. MONITORING
+Provider monitors BGP session status, latency, and utilization 24/7. Real-time utilization graphs are available in the customer portal.
+
+4. SERVICE CREDITS
+If Connection Availability falls below 99.95% in a month, credits are calculated as 100x the daily port charge for each hour of downtime beyond the allowed 0.05%. Credits are capped at 100% of the monthly port charge.",SLA
+"GENERAL MANAGER EMPLOYMENT AGREEMENT
+
+This Employment Agreement (""Agreement"") is made between The Grand Heritage Hotel (""Hotel""), located at 1 Monarch Bay Drive, Newport Beach, CA 92625, and Mr. Christopher B. Lee (""General Manager""), of 25 Oceanfront Way, Corona del Mar, CA 92625, SSN: ###-##-####.
+
+1. POSITION. The Hotel employs General Manager as the General Manager, and General Manager accepts such employment. General Manager shall report directly to the Hotel's Ownership Group and shall have overall responsibility for the daily operations, profitability, and guest satisfaction of the 250-room luxury hotel, including its food and beverage outlets, spa, and events department.
+
+2. TERM. This is an at-will employment relationship. However, the first ninety (90) days shall serve as an introductory period.
+
+3. COMPENSATION.
+   a. Base Salary. General Manager shall receive an annual base salary of $145,000, paid semi-monthly.
+   b. Annual Incentive Bonus. General Manager shall be eligible for an annual bonus of up to 30% of base salary, based on the achievement of specific financial targets (60% weightage) and guest satisfaction scores (40% weightage) as outlined in Exhibit B.
+   c. Relocation. The Hotel will provide a one-time relocation allowance of $15,000 to assist with moving expenses, subject to repayment if employment is terminated within the first twelve (12) months.
+
+4. BENEFITS AND PERQUISITES. General Manager shall be eligible for the Hotel's executive benefits package. The Hotel will provide a monthly auto allowance of $750 and a cell phone. General Manager shall be eligible for four (4) weeks of paid vacation annually. General Manager and his immediate family shall be eligible for discounted stays at affiliated properties worldwide.
+
+5. DUTIES. General Manager's duties include, but are not limited to: maximizing revenue and profit; leading a management team of 12 and a total staff of 150; ensuring brand standards are met or exceeded; overseeing marketing and sales initiatives; approving expenditures; and maintaining positive community relations.
+
+6. EXPENSE REIMBURSEMENT. The Hotel will reimburse General Manager for all reasonable and necessary business expenses incurred in the performance of his duties, upon presentation of receipts.
+
+7. CONFIDENTIALITY. General Manager shall not, during or after employment, disclose any confidential information of the Hotel, including financial data, guest lists, marketing strategies, or operational procedures.
+
+8. TERMINATION. Upon termination without cause, General Manager shall be entitled to severance pay equal to six (6) months of base salary, provided he signs a release of claims.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+THE GRAND HERITAGE HOTEL
+
+By: _________________________
+Name: Eleanor Vanderbilt
+Title: Representative of Ownership Group
+
+GENERAL MANAGER
+
+_________________________
+Christopher B. Lee",Employment
+"FREIGHT AND LOGISTICS SERVICES AGREEMENT
+
+Agreement Number: FL-2024-789
+Date: October 15, 2024
+
+SHIPPER: PRECISION MANUFACTURING CORP.
+Address: 1000 Industrial Parkway, Cleveland, OH 44135
+
+CARRIER: NATIONAL FREIGHT SOLUTIONS LLC
+Address: 555 Logistics Drive, Columbus, OH 43215
+
+1. SERVICES. Carrier agrees to provide freight transportation and logistics services for Shipper's shipments of manufactured components and finished goods throughout the United States and Canada.
+
+2. TERM. This Agreement shall be effective from November 1, 2024, and shall continue for thirty-six (36) months, unless earlier terminated as provided herein.
+
+3. RATES AND CHARGES. Shipper shall pay Carrier according to the rate schedule attached as Exhibit A. Rates include all fuel surcharges, accessorial charges, and other fees unless otherwise specified. Carrier may adjust rates annually with 30 days' written notice based on the Consumer Price Index for Urban Shippers.
+
+4. SHIPPING REQUIREMENTS. Carrier shall provide transportation services meeting the following standards:
+   - 98% on-time pickup performance
+   - 95% on-time delivery performance
+   - 99.9% damage-free delivery
+   - Real-time shipment tracking available
+
+5. PAYMENT TERMS. Shipper shall pay all properly rendered invoices within 45 days of receipt. A 2% discount is available for payment within 15 days.
+
+6. LIABILITY AND CLAIMS. Carrier's liability for loss or damage to freight shall be as set forth in Carrier's tariff and applicable law. Claims for loss or damage must be filed within nine months of delivery.
+
+7. INSURANCE. Carrier shall maintain cargo insurance with limits of not less than $250,000 per vehicle and $1,000,000 per occurrence.
+
+8. INDEPENDENT CONTRACTOR. Carrier is an independent contractor and not an agent or employee of Shipper.
+
+9. TERMINATION. Either party may terminate this Agreement upon 60 days' written notice for any reason. In the event of termination, Carrier shall complete all shipments in transit.
+
+10. GOVERNING LAW. This Agreement shall be governed by the laws of the State of Ohio.
+
+AGREED:
+
+PRECISION MANUFACTURING CORP.
+By: _________________________
+Name: Jennifer Lopez
+Title: Vice President, Supply Chain
+
+NATIONAL FREIGHT SOLUTIONS LLC
+By: _________________________
+Name: Robert Thompson
+Title: Director of Business Development",Vendor
+"UNIFIED COMMUNICATIONS AS A SERVICE (UCaaS) SLA
+
+This SLA covers the Voice-over-IP (VoIP) and collaboration services provided by ConnectVoice UCaaS platform.
+
+SERVICE AVAILABILITY: ConnectVoice guarantees 99.999% (""five nines"") availability of its core call processing and session management infrastructure, measured monthly.
+
+VOICE QUALITY METRICS (per call):
+- Mean Opinion Score (MOS): ≥ 4.0
+- Latency (one-way): ≤ 80ms
+- Jitter: ≤ 20ms
+- Packet Loss: ≤ 0.5%
+
+These metrics are measured from the ConnectVoice border to the customer's premises.
+
+CALL FEATURE PERFORMANCE:
+- Call Setup Time: < 3 seconds for 99% of calls.
+- Call Completion Rate: > 99% for calls within the network.
+- Voicemail Availability: 99.99%
+
+E911 SERVICE: 100% availability of E911 call routing services.
+
+SERVICE CREDITS:
+- Core Service Availability: For uptime below 99.999%, credit is 1 day's service fee for each cumulative hour of downtime.
+- Voice Quality: For widespread, confirmed voice quality issues affecting a user group for more than 4 continuous hours, credit is 1 day's service fee per event.
+
+MAINTENANCE: Scheduled maintenance occurs quarterly with a minimum of 10 days advance notice. During maintenance, service availability is not guaranteed for periods up to 2 hours.
+
+This SLA does not cover outages or quality issues originating from the customer's local area network (LAN) or internet service provider (ISP).",SLA
+"PART-TIME TO FULL-TIME CLAIMS ADJUSTER AGREEMENT
+
+This Employment Agreement (""Agreement"") is made between SafeGuard Insurance Company (""Company""), with offices at 700 Insurance Plaza, Hartford, CT 06103, and Mr. Thomas J. O'Malley (""Employee""), of 25 Oakwood Drive, Hartford, CT 06106, SSN: ###-##-####.
+
+1. POSITION. Company employs Employee as a Part-Time Claims Adjuster I in the Auto Claims department. Employee shall report to the Claims Team Manager. The Company anticipates a business need to transition this role to Full-Time status approximately six (6) months from the start date, subject to performance and business conditions. Transition is not guaranteed.
+
+2. SCHEDULE. Employee's initial part-time schedule shall be twenty-five (25) hours per week, Monday through Friday, from 1:00 PM to 6:00 PM Eastern Time. Schedule may be adjusted with mutual agreement. If transitioned to full-time, the schedule will become 40 hours per week, 8:30 AM to 5:00 PM.
+
+3. COMPENSATION. Employee shall be paid an hourly rate of $28.50. Overtime is not authorized for part-time status. Upon transition to full-time, Employee will be converted to a salaried, non-exempt position with an annual salary of $58,000, and will then be eligible for overtime pay.
+
+4. BENEFITS – PART-TIME. As a part-time employee working less than 30 hours per week, Employee is not eligible for medical, dental, or vision insurance. Employee is eligible to participate in the Company's 401(k) plan immediately upon hire, but is not eligible for the company match until working full-time. Employee will accrue PTO at a rate of 0.0385 hours per hour worked (approximately 5 days per year).
+
+5. BENEFITS – FULL-TIME. Upon transition to full-time status, Employee will become eligible for the Company's full benefits package, including health insurance (with 80% of premium paid by Company), dental, vision, and full 401(k) matching (4% of salary). PTO accrual will increase to the full-time rate of 15 days per year.
+
+6. DUTIES. Employee will be responsible for investigating, evaluating, and settling auto claims of low to moderate complexity. This includes interviewing claimants, assessing damage, determining coverage, negotiating settlements, and maintaining claim files in the company's system.
+
+7. LICENSING. Employee must obtain and maintain a valid Claims Adjuster license in the state of Connecticut within ninety (90) days of hire. The Company will provide study materials and cover the licensing fee.
+
+8. PERFORMANCE REVIEW. A formal performance and business need review will be conducted at the six (6) month anniversary to assess eligibility for transition to full-time employment.
+
+9. AT-WILL EMPLOYMENT. This is an at-will employment relationship.
+
+AGREED:
+
+SAFEGUARD INSURANCE COMPANY
+
+By: _________________________
+Name: Patricia Lawrence
+Title: Claims Director
+
+EMPLOYEE
+
+_________________________
+Thomas J. O'Malley",Employment
+"ENTERPRISE EMAIL SERVICES SLA
+
+This SLA applies to the hosted Microsoft Exchange Online services provided by MailCorp to the Customer.
+
+SERVICE AVAILABILITY: MailCorp guarantees 99.9% monthly uptime for the Exchange Online service, including Outlook Web Access (OWA), ActiveSync, and MAPI over HTTP connectivity.
+
+EMAIL FLOW:
+- Message Delivery: 99.9% of messages routed through MailCorp's gateways are delivered to the next hop within 1 minute.
+- Outbound Spam Filtering: 99.9% effective rate in blocking outbound spam.
+- Inbound Spam and Virus Filtering: 99.9% effective rate in blocking known viruses and spam.
+
+MAILBOX SUPPORT:
+- Mailbox Size: Standard 100 GB mailbox size.
+- Message Size: 150 MB maximum message size (including attachments).
+
+SYNC AND MOBILE ACCESS:
+- ActiveSync Availability: 99.9% for mobile device synchronization.
+- Calendar Sync: Calendar updates are synchronized to devices within 5 minutes.
+
+BACKUP AND RECOVERY:
+- Deleted Item Recovery: Items are recoverable from the Deleted Items folder for 30 days.
+- Mailbox Recovery: A single mailbox can be restored from a backup within 4 business hours of a request.
+
+SUPPORT: 24/7 support for critical email delivery issues. Response time for critical issues (service-wide outage) is less than 30 minutes.
+
+CREDITS: If the Service Availability falls below 99.9% in a month, Customer receives a credit equal to 5% of the monthly service fee for each full hour of downtime, capped at 100% of the monthly fee.",SLA
+"In connection with this Confidentiality Agreement, the Recipient agrees to treat all information designated as secret, proprietary, or privileged as strictly confidential. Such information includes restricted technical processes, strategic forecasts, and private communications. The Recipient may not disclose, duplicate, or exploit the information without explicit written approval. Breach of these terms entitles the Disclosing Party to immediate injunctive relief and damages.",Non-disclosure Agreement
+"HARDWARE PROCUREMENT AND SUPPORT AGREEMENT
+
+This Hardware Procurement and Support Agreement (""Agreement"") is made between ClearView Hospital Network (""Customer"") and TechSphere Systems (""Vendor"") for the provision of medical-grade computer workstations and associated support services.
+
+1. HARDWARE. Vendor shall supply the computer hardware (""Hardware"") as specified in the Quote #MED-2024-889 (incorporated herein by reference), including all necessary cables, mounts, and peripherals.
+
+2. DELIVERY AND INSTALLATION. Vendor shall deliver, install, and configure all Hardware at Customer's locations as detailed in the Deployment Schedule (Exhibit E). All installation shall be performed by certified technicians and completed by December 15, 2024.
+
+3. SUPPORT SERVICES. Following installation, Vendor shall provide on-site support services for the Hardware for a period of three (3) years (the ""Support Term""). Support includes next-business-day on-site repair, remote troubleshooting, and hardware replacement.
+
+4. PRICE AND PAYMENT. The total price for the Hardware and the three-year Support Term is $485,000. Customer shall pay 50% upon signing this Agreement, 25% upon completion of installation, and the remaining 25% upon the commencement of the Support Term.
+
+5. WARRANTIES. Vendor warrants that the Hardware shall be free from defects in materials and workmanship for a period of one (1) year from delivery. The support services are subject to the service level agreements outlined in Exhibit F.
+
+6. DATA SECURITY. In performing the services, Vendor agrees to comply with all applicable data privacy and security laws, including HIPAA. All Vendor personnel accessing Customer premises or systems must complete HIPAA compliance training.
+
+7. TERMINATION. Customer may terminate this Agreement for Vendor's material breach that remains uncured for thirty (30) days after written notice. In the event of such termination, Vendor shall refund any pre-paid fees for undelivered Hardware or unperformed Support Services.
+
+ClearView Hospital Network
+By: _________________________
+Name: Dr. Angela Rivera
+Title: CIO
+
+TechSphere Systems
+By: _________________________
+Name: Kevin Doss
+Title: National Accounts Director",Vendor
+"EMPLOYMENT AGREEMENT
+
+This Employment Agreement (""Agreement"") is made and effective as of May 15, 2024 (""Effective Date""), by and between InnovateTech Solutions, Inc., a Delaware corporation with its principal place of business at 123 Startup Lane, Palo Alto, CA 94301 (""Company""), and Sarah Chen, residing at 456 Oak Street, Apt 12, Mountain View, CA 94041, SSN ###-##-#### (""Employee"").
+
+WHEREAS, the Company desires to employ Employee as a Software Engineer I; and
+WHEREAS, Employee desires to accept such employment subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+1. POSITION AND DUTIES. Employee shall be employed in the position of Software Engineer I, reporting to the Director of Engineering. Employee shall perform all duties customary to such position and as may be assigned by the Company, including but not limited to developing, testing, and maintaining software applications in Python and JavaScript.
+
+2. TERM OF EMPLOYMENT. This is a full-time, at-will employment relationship. Employee's employment shall commence on June 3, 2024. Either party may terminate this Agreement at any time, with or without cause or notice.
+
+3. COMPENSATION.
+   a. Base Salary. For services rendered, the Company shall pay Employee an annual base salary of $95,000, payable in accordance with the Company's standard bi-weekly payroll schedule, subject to standard deductions and withholdings.
+   b. Bonus. Employee will be eligible to participate in the Company's discretionary annual bonus plan, with a target bonus of 5% of base salary, based on Company and individual performance.
+   c. Equity Grant. Subject to approval by the Company's Board of Directors, Employee will be granted Restricted Stock Units (RSUs) representing a value of $20,000. The RSUs will vest over a four-year period, with a one-year cliff (25% vesting on the first anniversary of the grant date) and quarterly vesting thereafter.
+
+4. BENEFITS. Employee shall be eligible to participate in the Company's standard benefits package, including health, dental, and vision insurance, subject to the terms and conditions of the applicable plans. The Company will pay 80% of the premium for employee-only coverage. Employee will be eligible for 15 days of Paid Time Off (PTO) per year, accrued on a bi-weekly basis.
+
+5. PROPRIETARY INFORMATION AND INVENTIONS. Employee agrees to sign and be bound by the terms of the Company's Proprietary Information and Inventions Assignment Agreement, attached as Exhibit A, which requires, among other things, the assignment of patent rights to any invention made during Employee's employment and non-disclosure of proprietary information.
+
+6. GOVERNING LAW. This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+INNOVATETECH SOLUTIONS, INC.
+
+By: _________________________
+Name: Jane Doe
+Title: CEO
+
+EMPLOYEE
+
+_________________________
+Sarah Chen
+
+SSN: ###-##-####",Employment
+"NON-DISCLOSURE AGREEMENT FOR MERGER DISCUSSIONS
+
+This Non-Disclosure Agreement (""Agreement"") is entered into as of August 5, 2024, between:
+
+TELECOM GLOBAL INC., with offices at 222 Communications Tower, Dallas, Texas 75201 (""Company A"")
+
+and
+
+WIRELESS SOLUTIONS CORP., with offices at 333 Network Drive, Richardson, Texas 75080 (""Company B"")
+
+WHEREAS, the Parties are engaged in preliminary discussions regarding a potential merger or acquisition;
+WHEREAS, both Parties may disclose confidential information to facilitate these discussions;
+
+1. CONFIDENTIAL INFORMATION
+Confidential Information includes all non-public information concerning either Party's business, including: financial statements, customer lists, contracts, technology, strategic plans, employee information, and any information marked as confidential.
+
+2. CONFIDENTIALITY OBLIGATIONS
+Each Party agrees to: (a) maintain the confidentiality of the other Party's Confidential Information; (b) use such information only for evaluating the potential transaction; (c) not disclose such information to any third party except to professional advisors who are bound by confidentiality obligations; (d) protect such information with at least the same degree of care as its own confidential information.
+
+3. STANDSTILL PROVISION
+For a period of one (1) year, Company B agrees not to acquire, offer to acquire, or participate in any acquisition of Company A's securities without prior written consent.
+
+4. EXCLUSIONS
+Confidential Information does not include information that: (a) is or becomes publicly available; (b) was already known to the receiving Party; (c) is independently developed; (d) is required to be disclosed by law.
+
+5. TERM
+This Agreement shall remain in effect for three (3) years from the Effective Date.
+
+6. RETURN OF INFORMATION
+Upon request, each Party shall return or destroy all Confidential Information received from the other Party.
+
+7. GOVERNING LAW
+This Agreement shall be governed by Texas law.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+TELECOM GLOBAL INC.
+
+By: _________________________
+Name: Richard Davis
+Title: Chief Executive Officer
+
+WIRELESS SOLUTIONS CORP.
+
+By: _________________________
+Name: Susan Miller
+Title: President",Non-disclosure Agreement
+"INFRASTRUCTURE MONITORING AND ALERTING SLA
+
+This SLA governs the services provided by MonitorLab's ""ProactiveWatch"" infrastructure monitoring platform.
+
+MONITORING AVAILABILITY: The MonitorLab polling engine and alerting system guarantees 99.95% uptime, ensuring checks are performed and alerts are generated as configured.
+
+DATA RETENTION:
+- Performance Data: 365 days of granular metric data retention.
+- Alert History: Indefinite retention of all alert events.
+
+CHECK FREQUENCY:
+- Ping/HTTP(s) Checks: Performed every 1 minute from multiple global locations.
+- API/Scripted Checks: Performed every 5 minutes.
+- Custom Metric Collection: Collected every 60 seconds.
+
+ALERT NOTIFICATION:
+- Alert Generation: Alerts are generated within 60 seconds of a check failure.
+- Notification Delivery: 99.9% of alert notifications are delivered to the configured endpoints (Email, SMS, Webhook) within 2 minutes of alert generation.
+
+ESCALATION: Automated alert escalation occurs if an alert remains unacknowledged for 15 minutes.
+
+REPORTING: Customizable reports on uptime, performance trends, and alert history are available on-demand. Scheduled reports can be delivered daily, weekly, or monthly.
+
+SERVICE CREDITS: If the Monitoring Availability falls below 99.95% in a given month, Customer is eligible for a service credit equal to 10x the duration of the outage. For example, a 1-hour outage results in a credit for 10 hours of service. Credits are applied to future invoices.",SLA
+"DIGITAL MARKETING SERVICES AGREEMENT
+
+This Digital Marketing Services Agreement (""Agreement"") is entered into by and between NovaTech Devices (""Client"") and Vertex Digital Agency (""Agency"").
+
+SCOPE: Agency shall provide digital marketing services to Client, including but not limited to: Search Engine Optimization (SEO), Pay-Per-Click (PPC) advertising management, social media marketing, and content creation, as detailed in the Statement of Work (SOW #24-105).
+
+TERM: The initial term of this engagement is twelve (12) months, commencing on September 1, 2024.
+
+COMPENSATION: Client shall pay Agency a monthly retainer of $25,000. Additionally, Client shall pay for all approved ad spend, which will be billed directly at cost. The retainer is payable in advance on the first of each month.
+
+PERFORMANCE METRICS: Agency's performance will be measured against the Key Performance Indicators (KPIs) outlined in the SOW, including a 20% increase in organic traffic and a 15% reduction in cost-per-acquisition within the first six (6) months.
+
+INTELLECTUAL PROPERTY: Upon full payment, Client owns all final creative work product. Agency retains ownership of its pre-existing methodologies and tools.
+
+REPORTING: Agency shall provide detailed performance reports to Client on a monthly basis, including analysis and recommendations for the following month.
+
+TERMINATION: Either party may terminate this Agreement for cause upon thirty (30) days' written notice of a material breach. Client may terminate for convenience with sixty (60) days' written notice and payment of a termination fee equal to fifty percent (50%) of the remaining retainer fees for the term.
+
+NovaTech Devices
+By: _________________________
+Name: Lisa Wang
+Title: Chief Marketing Officer
+
+Vertex Digital Agency
+By: _________________________
+Name: Brian Foster
+Title: Managing Partner",Vendor
+"EXHIBIT B: DATA CENTER COLOCATION SERVICE LEVEL AGREEMENT
+
+This Exhibit B is incorporated into the Master Service Agreement between DataHub Inc. (""Provider"") and Customer for colocation services in the PHX-3 data center.
+
+1. FACILITY UPTIME: Provider guarantees 100% availability of power and cooling infrastructure to the Customer's cabinet, measured monthly. This includes utility power, UPS systems, and backup generators.
+
+2. POWER SLA:
+- Utility Power Availability: 100%
+- UPS Output Availability: 99.999% (5.26 minutes of annual downtime)
+- Maximum Power Load: Provision of contracted amperage (e.g., 20A @ 120V) per cabinet.
+
+3. COOLING SLA:
+- Temperature: Maintained between 68°F and 72°F at the cabinet intake.
+- Humidity: Maintained between 40% and 60% relative humidity.
+
+4. CONNECTIVITY SLA:
+- Cross-Connect Availability: 100% for physical fiber links within the data center.
+- Carrier Neutral Uptime: 99.99% availability to the meet-me-room.
+
+5. PHYSICAL SECURITY:
+- 24/7/365 monitored access with biometric scanners and mantraps.
+- Video surveillance on all entry points and aisles with 90-day retention.
+
+6. REMEDIES:
+For any failure to meet the above SLAs, Customer is entitled to a credit calculated as follows:
+- Power/Cooling/Connectivity outage: 5% of monthly recurring charge (MRC) per hour of downtime, capped at 100% of MRC.
+- Temperature/Humidity excursion: 10% of MRC per continuous 4-hour period of violation.
+
+All credit requests must be made in writing within 30 days of the incident.",SLA
+"ENTERPRISE EMAIL SERVICES SLA
+
+This SLA applies to the hosted Microsoft Exchange Online (Plan 2) services provided by MailStream Inc. to Customer.
+
+1. SERVICE DESCRIPTION
+Provider delivers a fully managed Microsoft Exchange environment, including email, calendars, contacts, and archiving for 500 mailboxes.
+
+2. PERFORMANCE COMMITMENTS
+- **Service Availability:** 99.9% uptime for the mail server infrastructure, including SMTP, IMAP, POP, MAPI, and ActiveSync protocols.
+- **Email Delivery Latency:** 95% of inbound and outbound emails are processed (received or sent) within 3 minutes of being accepted by the service.
+- **Spam & Virus Filtering:** 99.9% effective catch rate for known viruses and spam, with a false positive rate of < 0.001%.
+- **Mailbox Access:** Successful client logins to mailboxes occur in < 2 seconds 99% of the time.
+
+3. SUPPORT
+Support is provided 24/7. Target response times:
+- Critical (Email Flow Stopped): < 30 minutes
+- High (Individual Mailbox Down): < 1 hour
+- Medium (Configuration): < 4 business hours
+
+4. BACKUP & RECOVERY
+Mailbox data is backed up every 4 hours. Point-in-time recovery of individual mailboxes or items is available for up to 30 days.
+
+5. SERVICE CREDITS
+If Service Availability falls below 99.9% in a month, credits are issued on a sliding scale:
+- 99.9% - 99.0%: 10% credit of monthly fee
+- 98.9% - 98.0%: 25% credit
+- Below 98.0%: 50% credit
+Credits are not provided for issues stemming from Microsoft-wide outages.",SLA
+"ENTERPRISE HARDWARE PROCUREMENT AND SUPPORT AGREEMENT
+
+This Agreement is between DATAFLOW SYSTEMS (""Vendor"") and GLOBAL FINANCIAL NETWORK INC. (""Customer"").
+
+1. EQUIPMENT. Vendor shall supply the servers, network switches, and storage arrays detailed in Quote #GFN-2025-Q1 (""the Equipment"").
+
+2. DELIVERY. Vendor shall deliver the Equipment FCA Vendor's Warehouse (Incoterms 2020) by June 15, 2025. Vendor shall provide a detailed delivery and installation schedule.
+
+3. PRICE AND PAYMENT. The total price for the Equipment is $1,850,000.00. Customer shall pay 50% upon signing, 40% upon delivery, and 10% upon successful completion of acceptance testing. All payments are due within Net 30 days of invoice.
+
+4. INSTALLATION & SUPPORT. Vendor shall provide on-site installation and configuration of the Equipment. Vendor shall provide a hardware support package for three (3) years, including next-business-day on-site service for all components, 24/7 remote technical support, and all firmware updates.
+
+5. ACCEPTANCE. Customer shall have a ten (10) business day Acceptance Test Period to verify that the Equipment meets all published specifications.
+
+6. TITLE AND RISK OF LOSS. Title to the Equipment shall pass to Customer upon delivery to Customer's loading dock. Risk of loss passes upon delivery to the carrier.
+
+7. WARRANTIES. Vendor warrants that the Equipment will be free from defects in materials and workmanship for a period of one (1) year from the date of acceptance. The support package covers years 2 and 3.
+
+8. CYBERSECURITY. All equipment must be shipped with the latest firmware and must not contain any known critical vulnerabilities. Vendor must provide a software bill of materials (SBOM) for all embedded software.
+
+GLOBAL FINANCIAL NETWORK INC.
+By: _________________________
+Name: Susan Takahashi
+Title: Chief Information Officer
+
+DATAFLOW SYSTEMS
+By: _________________________
+Name: Mark Jenkins
+Title: VP of Sales",Vendor
+"AMENDED AND RESTATED LIMITED PARTNERSHIP AGREEMENT OF HARBOR VIEW REAL ESTATE FUND, LP
+
+This AMENDED AND RESTATED LIMITED PARTNERSHIP AGREEMENT (this ""Agreement"") of HARBOR VIEW REAL ESTATE FUND, LP, a Delaware limited partnership (the ""Partnership""), is made and entered into as of July 10, 2024, by and between COASTAL DEVELOPMENT GROUP, LLC, a Delaware limited liability company, as the general partner (the ""General Partner""), and the persons whose names are set forth on Exhibit A attached hereto, as the limited partners (the ""Limited Partners"").
+
+BACKGROUND
+WHEREAS, the Partnership was formed to acquire, develop, and manage a mixed-use commercial property located at 1000 Harbor Drive, Boston, Massachusetts (the ""Project""); and
+WHEREAS, the General Partner and Limited Partners desire to set forth their agreement regarding the operation of the Partnership.
+
+ARTICLE 1: THE PARTNERSHIP
+1.1 Name. The name of the Partnership shall be ""Harbor View Real Estate Fund, LP"".
+1.2 Purpose. The purpose of the Partnership is solely to acquire, develop, lease, operate, and ultimately sell the Project.
+1.3 Term. The Partnership shall continue until December 31, 2034, unless earlier dissolved in accordance with this Agreement.
+
+ARTICLE 2: CAPITAL CONTRIBUTIONS
+2.1 General Partner Contribution. The General Partner has contributed $500,000 in cash and shall contribute its expertise in real estate development and management, valued at $500,000 for capital account purposes.
+2.2 Limited Partner Contributions. The Limited Partners shall contribute an aggregate of $9,500,000 in cash, as set forth in their respective Capital Commitments on Exhibit A.
+2.3 Capital Calls. The General Partner may make additional Capital Calls from the Limited Partners, up to their total Commitment, with 30 days' written notice to fund Project cost overruns.
+
+ARTICLE 3: ALLOCATIONS AND DISTRIBUTIONS
+3.1 Preferred Return. Distributions of Available Cash Flow shall first be made to the Limited Partners until they have received an 8% cumulative preferred return on their unreturned Capital Contributions.
+3.2 Catch-Up. Thereafter, 100% of additional Available Cash Flow shall be distributed to the General Partner until it has received distributions equal to 20% of all distributions made pursuant to Section 3.1 and this Section 3.2.
+3.3 Carry. Thereafter, Available Cash Flow shall be distributed 80% to the Limited Partners and 20% to the General Partner (the ""Promote"").
+
+ARTICLE 4: RIGHTS AND DUTIES OF PARTNERS
+4.1 Management by General Partner. The General Partner shall have full, exclusive, and complete discretion in the management and control of the Partnership's business.
+4.2 Limited Liability. The Limited Partners shall not participate in the management or control of the Partnership business and shall have no personal liability for Partnership obligations beyond their Capital Contributions.
+
+ARTICLE 5: DISSOLUTION
+5.1 Dissolution Events. The Partnership shall dissolve upon the earlier of: (a) the sale of all or substantially all of the Project's assets; (b) the written election of the General Partner; or (c) the expiration of its term.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+GENERAL PARTNER:
+COASTAL DEVELOPMENT GROUP, LLC
+By: _________________________
+Name: Sarah Jenkins
+Title: Managing Member
+
+LIMITED PARTNERS:
+[Signatures contained on Exhibit A]",Partnership
+"MASTER SERVICES AGREEMENT
+
+This MASTER SERVICES AGREEMENT (""Agreement"") is made and entered into as of this 15th day of May, 2024 (""Effective Date""), by and between:
+
+ACME CORPORATION, a Delaware corporation with its principal place of business at 123 Enterprise Avenue, Wilmington, DE 19801 (""Client""); and
+
+CLOUDNOVA SOLUTIONS INC., a California corporation with its principal place of business at 456 Tech Loop, San Francisco, CA 94105 (""Vendor"").
+
+RECITALS
+WHEREAS, Client desires to engage Vendor to provide certain information technology and cloud infrastructure services; and
+WHEREAS, Vendor represents that it has the expertise and resources to provide such services;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. SERVICES. Vendor shall provide to Client the services (""Services"") described in one or more mutually agreed Statements of Work (""SOW"") incorporated herein by reference. Each SOW shall specify the scope, deliverables, timelines, and fees for the Services.
+
+2. TERM. This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years, unless earlier terminated in accordance with its terms. This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+3. COMPENSATION. Client shall pay Vendor the fees as set forth in each applicable SOW. All fees are due and payable within thirty (30) days of receipt of a correct invoice. All fees are quoted in U.S. Dollars. Any amount not paid when due shall bear interest at the rate of one and one-half percent (1.5%) per month.
+
+4. CONFIDENTIALITY. Each party (a ""Receiving Party"") shall hold in strict confidence and not disclose to any third party any Confidential Information of the other party (a ""Disclosing Party""), and shall not use such Confidential Information for any purpose other than performing its obligations under this Agreement.
+
+5. INTELLECTUAL PROPERTY. Vendor shall retain all right, title, and interest in and to its pre-existing intellectual property. Client shall own all right, title, and interest in and to the deliverables specifically created for Client under an SOW and delivered to and accepted by Client (""Work Product"").
+
+6. WARRANTIES. Vendor warrants that the Services will be performed in a professional and workmanlike manner by qualified personnel and shall conform to the specifications set forth in the applicable SOW.
+
+7. LIMITATION OF LIABILITY. NEITHER PARTY'S LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL EXCEED THE TOTAL AMOUNTS PAID BY CLIENT TO VENDOR UNDER THE SOW GIVING RISE TO THE LIABILITY IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+8. TERMINATION. Either party may terminate this Agreement for material breach by the other party that remains uncured for thirty (30) days after written notice specifying the breach. Client may terminate any SOW for convenience upon thirty (30) days' written notice to Vendor.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+ACME CORPORATION
+By: _________________________
+Name: Jane Doe
+Title: Chief Procurement Officer
+
+CLOUDNOVA SOLUTIONS INC.
+By: _________________________
+Name: John Smith
+Title: Chief Executive Officer",Vendor
+"NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement (""Agreement"") is made on [Date] by and between Horizon Medical Systems, Inc. (""Disclosing Party"") and CareTech Solutions (""Receiving Party"").
+
+1. Purpose. The parties wish to engage in discussions related to joint product development involving medical software solutions, requiring the exchange of proprietary and sensitive information.
+
+2. Confidential Information. Confidential Information includes all documents, presentations, prototypes, databases, algorithms, code, inventions, business strategies, financial statements, personnel data, and research results provided by the Disclosing Party. The Receiving Party agrees that oral disclosures confirmed in writing within thirty (30) days shall also constitute Confidential Information.
+
+3. Non-Disclosure. The Receiving Party agrees not to disclose Confidential Information to any third party without prior written consent and not to use it for any purpose outside the agreed discussions.
+
+4. Protection Measures. The Receiving Party shall maintain safeguards to protect Confidential Information, including encryption of digital files, secure storage, and limited access to employees with a strict need to know.
+
+5. Duration. The confidentiality obligations under this Agreement shall survive for five (5) years after the date of disclosure.
+
+6. Return of Information. At the request of the Disclosing Party, all Confidential Information, including copies, notes, and summaries, must be returned or destroyed.
+
+7. Remedies. The Receiving Party acknowledges that monetary damages alone may be insufficient and agrees that the Disclosing Party may seek equitable relief.
+
+8. Governing Law. This Agreement shall be governed by the laws of Illinois.
+
+IN WITNESS WHEREOF, the parties execute this Agreement as of the Effective Date.
+
+Horizon Medical Systems, Inc. __________________
+
+CareTech Solutions ____________________________",Non-disclosure Agreement
+"TEACHER EMPLOYMENT CONTRACT
+
+Contract Year: 2025–2026
+
+Between: Los Angeles Unified School District, 333 S. Beaudry Ave, Los Angeles, CA 90005 (""District"")
+And: Michael Thompson, Credential No. CA-EDU98765, residing at 4560 Sunset Blvd, Los Angeles, CA 90027, SSN XXX-XX-8888 (""Teacher"")
+
+1. POSITION
+1.1 Title: High School Mathematics Teacher
+1.2 School: Lincoln High School
+1.3 FTE: 1.0
+1.4 Work Year: 180 days (August 18, 2025 – June 12, 2026)
+
+2. COMPENSATION
+2.1 Salary: $68,000 (Step 3, Lane B)
+2.2 Increment: Annual step increase based on experience
+2.3 Stipends: +$3,000 for AP course instruction
+
+3. BENEFITS
+3.1 Health: CalPERS coverage
+3.2 Retirement: STRS California
+3.3 PTO: 10 personal days, 5 sick days (non-accruable)
+
+4. DUTIES
+4.1 Teach 5 sections of Algebra II and AP Calculus
+4.2 Attend staff meetings, parent conferences, IEPs
+4.3 Supervise extracurricular: Math Club
+
+5. EVALUATION
+5.1 Performance review by Principal twice yearly
+5.2 Must maintain valid CA teaching credential
+
+6. TERMINATION
+6.1 Governed by CA Education Code
+6.2 Due process rights apply
+
+7. SIGNATURES
+
+Los Angeles Unified School District
+By: __________________________
+Name: Dr. Elena Martinez
+Title: Principal
+Date: ________________________
+
+Teacher:
+__________________________
+Michael Thompson
+Date: ________________________
+
+Exhibit A: CA Teaching Performance Expectations",Employment
+"SERVICE LEVEL AGREEMENT: CLOUD INFRASTRUCTURE (IaaS)
+
+This Service Level Agreement (SLA) is an exhibit to the Master Service Agreement between CloudCore Inc. (Provider) and Customer, governing the provision of CloudCore Virtual Private Cloud (VPC) infrastructure services.
+
+1. SERVICE DESCRIPTION & SCOPE
+Provider will deliver a dedicated, scalable virtual private cloud environment, including compute instances (vCPUs), block storage, virtual networking, and foundational security services (firewalls, security groups). Service is available 24 hours a day, 7 days a week, 365 days a year, excluding Planned Downtime. Coverage includes all designated CloudCore Availability Zones in the US-East and EU-West regions.
+
+2. PERFORMANCE METRICS & TARGETS
+- **Service Availability Commitment:** 99.99% Uptime for the CloudCore VPC service, calculated on a monthly basis. Availability is calculated as: (Total Minutes in Month - Unscheduled Downtime) / Total Minutes in Month.
+- **Compute Instance Availability:** 99.95% for individual compute instances.
+- **Storage Durability:** 99.999999999% (11 nines) for object storage.
+- **Network Performance:** < 1ms latency between instances in the same Availability Zone; < 5ms latency between instances in the same Region.
+
+3. SERVICE CREDITS
+If Availability falls below the commitment in a billing month, Customer is eligible for a service credit:
+- < 99.99% but >= 99.9%: 10% credit of monthly VPC fee.
+- < 99.9% but >= 99.0%: 25% credit.
+- < 99.0%: 50% credit.
+Credits are capped at 50% of the monthly fee for the affected service. Credits are Customer's sole and exclusive remedy.
+
+4. MEASUREMENT & REPORTING
+Availability is measured using Provider's proprietary monitoring system, which polls service endpoints every minute. A downtime minute is recorded if more than 50% of health checks fail. A detailed performance report is available to Customer via the CloudCore portal within ten (10) business days following the end of each month.
+
+5. MAINTENANCE
+Planned Downtime for maintenance will be scheduled during the designated weekly window: Sundays, 02:00 - 04:00 UTC. Provider will provide at least seventy-two (72) hours' notice via the customer portal. Planned Downtime is excluded from Availability calculations.
+
+6. EXCLUSIONS
+SLA commitments do not apply to downtime caused by: (i) factors outside Provider's reasonable control; (ii) Customer's equipment, software, or actions; (iii) Customer's failure to adhere to required configurations; (iv) force majeure events.",SLA
+"**UNIFIED COMMUNICATIONS AS A SERVICE (UCaaS) SLA**
+
+**Provider:** VoiceConnect Solutions
+**Service:** Enterprise Voice Plan
+
+**1. SERVICE AVAILABILITY:** 99.999% uptime for core call control and session management components, providing an overall platform availability of 99.99%.
+
+**2. VOICE QUALITY:**
+*   **Network MOS:** Guaranteed Mean Opinion Score (MOS) of 4.0 or higher for intra-platform calls.
+*   **Jitter:** Less than 10ms.
+*   **Packet Loss:** Less than 0.5%.
+
+**3. FEATURE AVAILABILITY:** Core features including Presence, Instant Messaging, and Conferencing shall have 99.95% availability.
+
+**4. OUTBOUND CALL COMPLETION RATE:** Success rate for outbound calls to the PSTN (Public Switched Telephone Network) shall be greater than 99.5%.
+
+**5. SUPPORT:** Provider's support desk is available 24/7/365. Initial response for a P1 (Total Service Outage) ticket is 15 minutes.
+
+**6. CREDIT POLICY:** For any failure to meet the Service Availability commitment, Customer will receive a credit equal to 100 times the length of the outage (e.g., a 1-minute outage results in a 100-minute credit) applied to the next invoice. For voice quality violations, a credit of 10% of the monthly service fee per validated event will be issued. Total credits shall not exceed 100% of the monthly invoice.",SLA
+"CONFIDENTIALITY AGREEMENT FOR EXECUTIVE RECRUITMENT
+
+This Confidentiality Agreement (""Agreement"") is made effective as of November 3, 2024, between:
+
+FINANCIAL SERVICES ENTERPRISE INC., with offices at 666 Wall Street, New York, NY 10005 (""Company"")
+
+and
+
+EXECUTIVE CANDIDATE: Robert Johnson (""Candidate""), with address at 123 Executive Lane, Greenwich, Connecticut 06830
+
+BACKGROUND
+Company is considering Candidate for the position of Chief Financial Officer and may disclose confidential information during the recruitment process.
+
+1. CONFIDENTIAL INFORMATION
+Confidential Information includes all non-public information about Company's business, including: financial data, strategic plans, organizational structure, compensation information, and any information marked as confidential.
+
+2. CANDIDATE'S OBLIGATIONS
+Candidate agrees to: (a) maintain strict confidentiality of all Confidential Information; (b) use Confidential Information only for considering the employment opportunity; (c) not disclose Confidential Information to any third party; (d) return all Confidential Information if not hired.
+
+3. NON-SOLICITATION
+Candidate agrees not to solicit any Company employees for one (1) year following disclosure of Confidential Information.
+
+4. TERM
+This Agreement shall remain in effect for two (2) years from the Effective Date.
+
+5. GOVERNING LAW
+This Agreement shall be governed by New York law.
+
+ACKNOWLEDGMENT
+Candidate acknowledges and agrees to the terms of this Agreement.
+
+COMPANY:
+FINANCIAL SERVICES ENTERPRISE INC.
+
+By: _________________________
+Name: Elizabeth Taylor
+Title: Chief Executive Officer
+
+CANDIDATE:
+_________________________
+Robert Johnson
+Date: _________________________",Non-disclosure Agreement
+"NDA #17 – Fashion Design Collaboration
+
+CONFIDENTIALITY AGREEMENT
+
+Effective Date: September 12, 2025
+
+Between:
+**LuxeWear International Ltd.**
+77 Madison Avenue, New York, NY 10016
+Represented by: Isabella Romano, Creative Director
+
+And:
+**Aria Couture House**
+Rue Saint-Honoré 245, 75001 Paris, France
+Represented by: Julien Dupont, Artistic Director
+
+Purpose: To protect fashion designs exchanged for potential joint clothing line.
+
+1. **Confidential Information**: Sketches, fabrics, design patterns, supplier details, marketing concepts.
+2. **Use Restrictions**: Parties shall not use each other’s designs outside collaboration.
+3. **Exceptions**: Designs independently conceived.
+4. **Return of Materials**: All sketches returned after project evaluation.
+5. **Term**: Three (3) years.
+6. **Governing Law**: New York.
+
+_________________________
+Isabella Romano, Creative Director
+
+_________________________
+Julien Dupont, Artistic Director",Non-disclosure Agreement
+"RESEARCH AND DEVELOPMENT COLLABORATION AGREEMENT
+
+This Research and Development Collaboration Agreement (""Agreement"") is made between NEUROTECH PHARMACEUTICALS (""Sponsor"") and BIOANALYTICAL RESEARCH LABS (""CRO"").
+
+1. RESEARCH PROGRAM. CRO shall conduct the research program titled ""Phase I Clinical Trial for Compound NTX-205"" as described in the Protocol attached as Exhibit A (the ""Research Program"").
+
+2. TERM. The term of this Agreement is eighteen (18) months, commencing on the Effective Date, unless earlier terminated.
+
+3. COMPENSATION. Sponsor shall pay CRO a fixed fee of $2,500,000.00 for the Research Program, payable in installments tied to the achievement of milestones as detailed in the Payment Schedule (Exhibit B).
+
+4. REPORTS. CRO shall provide Sponsor with monthly progress reports and a final study report upon completion of the Research Program.
+
+5. INTELLECTUAL PROPERTY. Any inventions made solely by CRO personnel in conducting the Research Program (""CRO IP"") shall be owned by CRO. Any inventions made solely by Sponsor personnel shall be owned by Sponsor. Joint inventions shall be jointly owned. Sponsor receives an exclusive, royalty-free license to any CRO IP necessary to use the results of the Research Program.
+
+6. REGULATORY COMPLIANCE. CRO shall conduct the Research Program in accordance with all applicable laws and regulations, including Good Clinical Practice (GCP) guidelines.
+
+7. PUBLICATION. CRO may not publish the results of the Research Program without Sponsor's prior written consent.
+
+8. AUDIT. Sponsor has the right to audit CRO's records relating to the Research Program to ensure compliance and proper accounting.
+
+9. TERMINATION. Sponsor may terminate this Agreement for convenience upon sixty (60) days written notice. In such event, Sponsor shall pay CRO for all costs incurred plus a termination fee equal to 15% of the remaining unpaid fees.
+
+NEUROTECH PHARMACEUTICALS
+By: _________________________
+Name: Dr. Emily Warren
+Title: VP of R&D
+
+BIOANALYTICAL RESEARCH LABS
+By: _________________________
+Name: Dr. Samuel Roberts
+Title: President",Vendor
+"CHIEF TECHNOLOGY OFFICER EXECUTIVE EMPLOYMENT AGREEMENT
+
+This Executive Employment Agreement (""Agreement"") is made as of January 15, 2025, by and between NexGen AI Ventures, Inc., a Delaware corporation (""Company""), and Dr. Evelyn Reed, an individual residing in San Francisco, California (""Executive"").
+
+1. TITLE AND POSITION. Executive shall serve as the Chief Technology Officer (CTO) of the Company. Executive shall report directly to the Chief Executive Officer and shall serve as a member of the Company's Executive Leadership Team.
+
+2. DUTIES. Executive shall have overall responsibility for the Company's technology vision, strategy, and execution, including software development, infrastructure, data security, and the management of the engineering department.
+
+3. COMPENSATION.
+   a. Base Salary. The Company shall pay Executive a base salary at the rate of $275,000 per year.
+   b. Annual Bonus. Executive shall be eligible for an annual cash bonus with a target of 50% of base salary, based on achieving product development milestones and company performance.
+   c. Equity Grant. Upon commencement of employment, Executive will be granted stock options to purchase shares representing 3% of the Company's fully diluted capitalization. The options shall have an exercise price equal to the fair market value on the date of grant and shall vest monthly over a four-year period, subject to acceleration upon a Change of Control.
+
+4. BENEFITS AND PERQUISITES. Executive shall be eligible for:
+   - Company-paid health, dental, and vision insurance for Executive and her family.
+   - A $5,000 annual technology allowance.
+   - Four weeks of paid vacation per year.
+
+5. SEVERANCE. If Executive's employment is terminated by the Company without Cause or by Executive for Good Reason (as defined herein), Executive shall be entitled to: (i) twelve months of her then-current base salary; (ii) accelerated vesting of 100% of her then-unvested equity; and (iii) payment of COBRA premiums for twelve months.
+
+6. RESTRICTIVE COVENANTS. Executive agrees to a 24-month post-employment non-compete within the AI software industry and a perpetual non-disclosure obligation regarding the Company's trade secrets.
+
+7. ARBITRATION. Any dispute arising out of this Agreement shall be settled by binding arbitration in San Francisco, California.
+
+[Signature Blocks Follow]",Employment
+"MASTER SERVICES AGREEMENT
+
+This MASTER SERVICES AGREEMENT (""Agreement"") is made and entered into as of this 15th day of May, 2024 (""Effective Date""), by and between:
+
+ACME CORPORATION, a Delaware corporation with its principal place of business at 123 Enterprise Avenue, Wilmington, DE 19801 (""Client""); and
+
+CLOUDNOVA SOLUTIONS INC., a California corporation with its principal place of business at 456 Tech Loop, San Francisco, CA 94105 (""Vendor"").
+
+RECITALS
+WHEREAS, Client desires to engage Vendor to provide certain information technology and cloud infrastructure services; and
+WHEREAS, Vendor represents that it has the expertise and resources to provide such services;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. SERVICES. Vendor shall provide to Client the services (""Services"") described in one or more mutually agreed Statements of Work (""SOW"") incorporated herein by reference. Each SOW shall specify the scope, deliverables, timelines, and fees for the Services.
+
+2. TERM. This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years, unless earlier terminated in accordance with its terms. This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+3. COMPENSATION. Client shall pay Vendor the fees as set forth in each applicable SOW. All fees are due and payable within thirty (30) days of receipt of a correct invoice. All fees are quoted in U.S. Dollars. Any amount not paid when due shall bear interest at the rate of one and one-half percent (1.5%) per month.
+
+4. CONFIDENTIALITY. Each party (a ""Receiving Party"") shall hold in strict confidence and not disclose to any third party any Confidential Information of the other party (a ""Disclosing Party""), and shall not use such Confidential Information for any purpose other than performing its obligations under this Agreement.
+
+5. INTELLECTUAL PROPERTY. Vendor shall retain all right, title, and interest in and to its pre-existing intellectual property. Client shall own all right, title, and interest in and to the deliverables specifically created for Client under an SOW and delivered to and accepted by Client (""Work Product"").
+
+6. WARRANTIES. Vendor warrants that the Services will be performed in a professional and workmanlike manner by qualified personnel and shall conform to the specifications set forth in the applicable SOW.
+
+7. LIMITATION OF LIABILITY. NEITHER PARTY'S LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL EXCEED THE TOTAL AMOUNTS PAID BY CLIENT TO VENDOR UNDER THE SOW GIVING RISE TO THE LIABILITY IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+8. TERMINATION. Either party may terminate this Agreement for material breach by the other party that remains uncured for thirty (30) days after written notice specifying the breach. Client may terminate any SOW for convenience upon thirty (30) days' written notice to Vendor.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+ACME CORPORATION
+By: _________________________
+Name: Jane Doe
+Title: Chief Procurement Officer
+
+CLOUDNOVA SOLUTIONS INC.
+By: _________________________
+Name: John Smith
+Title: Chief Executive Officer",Vendor
+"MANUFACTURING AND DISTRIBUTION PARTNERSHIP AGREEMENT
+
+This Manufacturing and Distribution Partnership Agreement (""Agreement"") is made as of September 10, 2025, between:
+PRECISION MACHINING CORP., an Ohio corporation (""Precision""), and
+GLOBAL DISTRIBUTION SOLUTIONS, LLC, a Florida limited liability company (""GDS"").
+Precision and GDS are sometimes referred to individually as a ""Partner"" and collectively as the ""Partners"".
+
+RECITALS
+Precision manufactures high-quality industrial components but lacks an international sales network. GDS has an extensive global distribution network but does not manufacture its own products. The Partners wish to form a general partnership to manufacture, market, and distribute a new line of branded components.
+
+AGREEMENT
+1. PARTNERSHIP. The Partners form a general partnership named ""Allied Industrial Products"" (the ""Partnership"").
+
+2. CONTRIBUTIONS.
+    2.1 Precision contributes: (i) its manufacturing facilities and equipment; (ii) its proprietary designs and technical know-how; (iii) a cash contribution of $500,000.
+    2.2 GDS contributes: (i) its global sales and distribution network; (ii) its customer relationships and brand reputation in the sector; (iii) a cash contribution of $500,000 for marketing and inventory.
+
+3. PROFIT SHARING. Net profits and losses shall be shared equally (50/50).
+
+4. MANAGEMENT.
+    4.1 A Joint Management Board (JMB) with three (3) representatives from each Partner shall govern the Partnership.
+    4.2 Precision shall be responsible for all production, quality control, and R&D.
+    4.3 GDS shall be responsible for all sales, marketing, logistics, and customer service.
+
+5. INTELLECTUAL PROPERTY. Any new IP developed by the Partnership shall be jointly owned. Precision's background IP related to manufacturing processes remains its sole property. GDS's background IP related to customer lists and distribution software remains its sole property.
+
+6. SUPPLY CHAIN. Precision shall sell the finished components to the Partnership at a transfer price equal to its direct cost plus 15%. This transfer price shall be reviewed annually by the JMB.
+
+7. EXCLUSIVITY. For the term of this Agreement, Precision shall not manufacture the partnered product line for any other distributor, and GDS shall not distribute a directly competing product line from another manufacturer.
+
+8. TERM AND DISSOLUTION. The initial term is five (5) years. Upon dissolution, the Partnership's assets shall be liquidated. Each Partner shall have a right of first refusal on any asset being sold to a third party.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+PRECISION MACHINING CORP.
+By: _________________________
+Name: Charles ""Chip"" Johansson
+Title: President
+
+GLOBAL DISTRIBUTION SOLUTIONS, LLC
+By: _________________________
+Name: Elena Morales
+Title: CEO",Partnership
+"RESEARCH COLLABORATION CONFIDENTIALITY AGREEMENT
+
+This Confidentiality Agreement (""Agreement"") is made effective as of March 5, 2025, between:
+
+UNIVERSITY RESEARCH CENTER, with offices at 888 Campus Drive, Cambridge, Massachusetts 02138 (""University"")
+
+and
+
+INDUSTRIAL PARTNERS CORP., with offices at 999 Technology Park, Boston, Massachusetts 02110 (""Industry Partner"")
+
+BACKGROUND
+The Parties wish to explore a potential research collaboration in the field of artificial intelligence.
+
+1. CONFIDENTIAL INFORMATION
+Confidential Information includes all research data, algorithms, experimental results, technical specifications, and any information marked as confidential.
+
+2. MUTUAL OBLIGATIONS
+Each Party agrees to: (a) maintain the confidentiality of the other Party's Confidential Information; (b) use such information only for evaluating the potential collaboration; (c) not disclose such information to third parties without written consent; (d) protect such information with reasonable care.
+
+3. INTELLECTUAL PROPERTY
+Each Party retains all rights to its pre-existing intellectual property.
+
+4. TERM
+This Agreement shall remain in effect for four (4) years from the Effective Date.
+
+5. RETURN OF INFORMATION
+Upon request, each Party shall return or destroy all Confidential Information received from the other Party.
+
+6. GOVERNING LAW
+This Agreement shall be governed by Massachusetts law.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+UNIVERSITY RESEARCH CENTER
+
+By: _________________________
+Name: Dr. Emily Wilson
+Title: Director of Research
+
+INDUSTRIAL PARTNERS CORP.
+
+By: _________________________
+Name: Dr. Michael Brown
+Title: Chief Technology Officer",Non-disclosure Agreement
+"EMPLOYMENT AGREEMENT
+
+This Employment Agreement (the ""Agreement"") is entered into as of April 5, 2025, by and between NovaWave Technologies, Inc., a Delaware corporation with its principal place of business at 123 Innovation Drive, San Francisco, CA 94107 (""Company""), and Jordan Taylor, residing at 456 Market Street, Apt 3B, San Francisco, CA 94103, Social Security Number XXX-XX-1234 (""Employee"").
+
+WHEREAS, the Company is engaged in the development of AI-powered communication platforms; and
+WHEREAS, Employee possesses skills in software engineering and full-stack development; and
+WHEREAS, the Company desires to employ Employee, and Employee desires to accept such employment, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+1. POSITION AND DUTIES
+1.1 Position. Employee shall serve as a Software Engineer (Entry-Level) in the Product Development Department, reporting to the Lead Software Architect.
+1.2 Work Location. Primary work location shall be the Company’s San Francisco office, with up to two remote workdays per week permitted at the discretion of management.
+1.3 Duties. Employee shall perform duties related to front-end and back-end development, code testing, debugging, and collaboration with UX designers and product managers. Specific responsibilities are outlined in Exhibit A.
+
+2. TERM OF EMPLOYMENT
+2.1 Commencement. Employment shall commence on May 6, 2025.
+2.2 Type. Full-time permanent employment, subject to a 90-day probationary period during which either party may terminate with seven (7) days’ written notice.
+
+3. COMPENSATION
+3.1 Base Salary. Employee shall receive an annual base salary of $92,000, paid bi-weekly in accordance with Company payroll practices.
+3.2 Performance Bonus. Eligible for an annual performance bonus of up to 10% of base salary, contingent upon individual and company performance metrics.
+3.3 Equity Incentive. Subject to Board approval, Employee shall be granted 15,000 stock options under the Company’s 2024 Equity Incentive Plan, vesting over four (4) years with a one-year cliff and monthly vesting thereafter. Exercise price: $0.85 per share.
+
+4. BENEFITS
+4.1 Health Insurance. Employee shall be eligible for comprehensive medical, dental, and vision coverage effective 30 days after start date. Company shall cover 85% of employee premium and 50% of dependent premiums.
+4.2 401(k) Plan. Employee may participate in the Company’s 401(k) plan with a 4% matching contribution after one year of service.
+4.3 Paid Time Off. Accrues 15 days of vacation annually, 8 sick days, and 6 personal days. Full holiday schedule attached as Exhibit B.
+4.4 Professional Development. Annual stipend of $3,000 for technical certifications, conferences, or continuing education.
+
+5. CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+5.1 Confidentiality. Employee agrees not to disclose any proprietary information, including source code, algorithms, customer data, or business strategies, during or after employment.
+5.2 Work for Hire. All inventions, software, and creative works developed during employment shall be the sole property of the Company.
+5.3 Return of Property. Upon termination, Employee shall return all Company equipment, documents, and digital assets.
+
+6. NON-COMPETE AND NON-SOLICITATION
+6.1 Non-Compete. For a period of twelve (12) months following termination, Employee shall not engage in any business that develops AI communication tools within a 50-mile radius of any Company office.
+6.2 Non-Solicitation. Employee shall not solicit Company employees or clients for two (2) years post-employment.
+
+7. TERMINATION
+7.1 At-Will Employment. Employment is at-will and may be terminated by either party at any time with or without cause.
+7.2 Termination for Cause. Includes fraud, misconduct, or material breach of contract. No severance payable.
+7.3 Voluntary Resignation. Requires fourteen (14) days’ written notice.
+
+8. DISPUTE RESOLUTION
+8.1 Arbitration. Any disputes arising under this Agreement shall be resolved by binding arbitration in San Francisco, California, under the rules of the American Arbitration Association.
+8.2 Governing Law. This Agreement shall be governed by the laws of the State of California.
+
+9. MISCELLANEOUS
+9.1 Entire Agreement. This document, including exhibits, constitutes the entire agreement between the parties.
+9.2 Amendments. Any changes must be in writing and signed by both parties.
+9.3 Severability. If any provision is found invalid, the remainder shall remain enforceable.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+NovaWave Technologies, Inc.
+By: __________________________
+Name: Alicia Mendez
+Title: Chief People Officer
+Date: ________________________
+
+Employee:
+__________________________
+Jordan Taylor
+Date: ________________________
+
+Witness:
+__________________________
+Name: _____________________
+
+Exhibit A: Job Description – Software Engineer
+Exhibit B: 2025 Holiday Schedule
+Exhibit C: Stock Option Grant Notice",Employment
+"LIMITED PARTNERSHIP AGREEMENT
+
+This LIMITED PARTNERSHIP AGREEMENT (the ""Agreement"") is made and entered into as of May 10, 2024, by and between SUMMIT DEVELOPMENT GROUP, LLC, a New York limited liability company (""General Partner""), with its principal office at 100 Skyline Drive, New York, New York 10001, and the individuals and entities listed on Exhibit A attached hereto (collectively, ""Limited Partners"").
+
+RECITALS
+
+WHEREAS, the parties wish to form a limited partnership to develop, own, and operate a mixed-use commercial and residential property known as ""Hudson Yards Tower"" located at 500 11th Avenue, New York, New York 10001; and
+
+WHEREAS, the General Partner will contribute its development expertise and manage the project, while the Limited Partners will contribute capital for the development;
+
+NOW, THEREFORE, the parties agree as follows:
+
+ARTICLE I: FORMATION
+1.1 Formation. The parties form a limited partnership (the ""Partnership"") under the New York Revised Limited Partnership Act.
+1.2 Name. The name shall be ""Hudson Yards Development, LP.""
+1.3 Purpose. The purpose is to develop, lease, manage, and ultimately sell the Hudson Yards Tower property.
+1.4 Term. The Partnership shall continue until December 31, 2035, unless earlier terminated.
+
+ARTICLE II: CAPITAL CONTRIBUTIONS
+2.1 General Partner Contribution. The General Partner contributes its development expertise, project management services, and $500,000 capital.
+2.2 Limited Partner Contributions. Limited Partners shall contribute an aggregate of $20,000,000 as set forth in Exhibit A.
+2.3 Additional Contributions. Additional capital calls may be made with 30 days notice to Limited Partners.
+
+ARTICLE III: ALLOCATIONS AND DISTRIBUTIONS
+3.1 Profit Allocation. Net profits shall be allocated 20% to the General Partner and 80% to Limited Partners pro rata based on capital contributions.
+3.2 Loss Allocation. Net losses shall be allocated 100% to Limited Partners until their capital accounts are exhausted, then to the General Partner.
+3.3 Distributions. Cash flow shall be distributed quarterly as follows: first, return of capital to Limited Partners; second, 8% preferred return to Limited Partners; third, 80% to Limited Partners and 20% to General Partner.
+
+ARTICLE IV: MANAGEMENT
+4.1 General Partner Authority. The General Partner shall have exclusive authority to manage Partnership business.
+4.2 Limited Partner Rights. Limited Partners shall have no management rights but may vote on: (a) dissolution; (b) removal of General Partner; (c) admission of new partners; (d) changes to this Agreement.
+4.3 Development Plan. The General Partner shall adhere to the development plan attached as Exhibit B.
+
+ARTICLE V: REPORTING
+5.1 Financial Reports. The General Partner shall provide quarterly financial statements and annual audited financials.
+5.2 Tax Information. Schedule K-1s shall be provided by March 15 each year.
+5.3 Project Updates. Monthly progress reports shall be distributed to all Partners.
+
+ARTICLE VI: TRANSFERS AND WITHDRAWALS
+6.1 Transfer Restrictions. Limited Partners may not transfer their interests without General Partner consent.
+6.2 General Partner Transfer. The General Partner may not transfer its interest without majority consent of Limited Partners.
+6.3 Withdrawal. Limited Partners have no right to withdraw before Partnership termination.
+
+ARTICLE VII: DISSOLUTION
+7.1 Dissolution Events. The Partnership shall dissolve upon: (a) completion of its purpose; (b) December 31, 2035; (c) bankruptcy of General Partner; (d) unanimous vote of Limited Partners.
+7.2 Liquidation. Upon dissolution, assets shall be liquidated and proceeds distributed: first to creditors, then to Limited Partners until capital contributions returned, then 80% to Limited Partners and 20% to General Partner.
+
+ARTICLE VIII: GENERAL PROVISIONS
+8.1 Liability. Limited Partners shall have no personal liability for Partnership obligations.
+8.2 Indemnification. The Partnership shall indemnify the General Partner except for gross negligence or willful misconduct.
+8.3 Governing Law. This Agreement shall be governed by New York law.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+GENERAL PARTNER:
+SUMMIT DEVELOPMENT GROUP, LLC
+By: _________________________
+Name: Michael Roberts
+Title: Managing Member
+
+LIMITED PARTNERS:
+[Signatures contained on Exhibit A]",Partnership
+"REMOTE DATA ANALYST EMPLOYMENT AGREEMENT
+
+This Remote Work Employment Agreement (""Agreement"") is made between DataFlow Inc., an e-commerce company with its principal office at 10 Data Drive, Austin, TX 78701 (""Company""), and Ryan Patel, residing at 333 Remote Lane, Portland, OR 97205, SSN ###-##-#### (""Remote Employee"").
+
+1. POSITION. The Company employs Remote Employee as a Data Analyst. Remote Employee's primary work location will be his home address listed above.
+
+2. REMOTE WORK CONDITIONS.
+   a. Remote Employee is responsible for establishing and maintaining a suitable, secure, and productive home office workspace, including a high-speed internet connection.
+   b. The Company will provide a laptop, monitor, and necessary software. Remote Employee will be responsible for the day-to-day maintenance of this equipment.
+   c. Remote Employee agrees to work during core business hours of 9:00 AM to 3:00 PM PST to ensure overlap with the Austin-based team.
+
+3. COMPENSATION. Remote Employee will receive an annual salary of $88,000, paid bi-weekly. Compensation is based on the Portland, OR market rate for this position.
+
+4. DATA SECURITY. Due to the remote nature of the work, Remote Employee must adhere to the Company's strict Data Security Policy, including the use of a provided VPN, multi-factor authentication, and secure file transfer protocols. All work must be performed on company-provided equipment.
+
+5. BENEFITS. Remote Employee is eligible for the Company's full benefits package, including health insurance, 401(k) matching, and a $500 annual stipend for home office expenses.
+
+6. REIMBURSEMENT. The Company will not reimburse for general utilities or rent. Required software and hardware will be provided or reimbursed with prior approval.
+
+7. AT-WILL EMPLOYMENT. This is an at-will employment agreement. Either party may terminate the employment relationship at any time.
+
+8. GOVERNING LAW. Notwithstanding the Remote Employee's location, this Agreement shall be governed by the laws of the State of Texas.
+
+[Signature Blocks Follow]",Employment
+"FOOD AND BEVERAGE SUPPLY AGREEMENT
+
+Agreement Number: FBS-2025-022
+Effective Date: February 1, 2025
+Between: SUMMIT RESTAURANT GROUP (""Buyer"") and FRESH HARVEST FOOD DISTRIBUTORS (""Supplier"")
+
+1. PARTIES. Buyer: Summit Restaurant Group, operating 12 restaurant locations in the Denver metropolitan area, with headquarters at 505 Culinary Circle, Denver, CO 80202. Supplier: Fresh Harvest Food Distributors, with distribution facilities at 700 Agriculture Way, Aurora, CO 80011.
+
+2. PRODUCTS. Supplier agrees to supply Buyer with the meat, poultry, seafood, produce, and dairy products as specified in the Product Catalog attached as Exhibit A. Buyer agrees to purchase approximately seventy percent (70%) of its total food and beverage requirements from Supplier.
+
+3. TERM. This Agreement shall be effective for an initial term of two (2) years, commencing on March 1, 2025, and ending on February 28, 2027. This Agreement shall automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term.
+
+4. PRICING. Prices for products shall be as set forth in Exhibit A, which may be updated weekly. Supplier guarantees that prices to Buyer will be no higher than those offered to any other comparable restaurant group in the region. Supplier will provide Buyer with best pricing based on volume commitments.
+
+5. ORDERING AND DELIVERY. Buyer shall place orders by 2:00 PM for next-day delivery. Supplier shall deliver products between 4:00 AM and 7:00 AM to each restaurant location. All products must be delivered at proper temperatures and in compliance with all food safety regulations.
+
+6. QUALITY STANDARDS. All products must meet USDA standards where applicable and be of the highest quality. Produce must be fresh, meat and poultry must be within sell-by dates, and seafood must be delivered on ice. Buyer may reject any products that do not meet quality standards.
+
+7. PAYMENT TERMS. Buyer shall pay Supplier Net 21 days from date of invoice. A 2% discount is available for payment within 10 days. Late payments shall accrue interest at 1.5% per month.
+
+8. MINIMUM COMMITMENT. Buyer agrees to purchase a minimum of $1,200,000 in products from Supplier during the initial term. If this minimum is not met, Buyer agrees to pay a shortfall fee equal to 5% of the difference.
+
+9. FOOD SAFETY. Supplier must maintain certification under the Global Food Safety Initiative (GFSI) and provide certificates of insurance and proof of compliance with all FDA and local health regulations.
+
+10. RECALL PROCEDURE. In the event of a product recall, Supplier shall immediately notify Buyer and be responsible for all costs associated with the removal and disposal of affected products.
+
+11. TERMINATION. Either party may terminate this Agreement for material breach upon thirty (30) days' written notice. Either party may terminate immediately in the event of a food safety issue that poses a health risk.
+
+SIGNATURES:
+
+SUMMIT RESTAURANT GROUP
+By: _________________________
+Name: Amanda Fisher
+Title: Director of Procurement
+
+FRESH HARVEST FOOD DISTRIBUTORS
+By: _________________________
+Name: David Chen
+Title: Regional Sales Manager",Vendor
+"NDA #8 – Licensing Negotiations
+
+NON-DISCLOSURE AGREEMENT
+
+Dated: February 10, 2025
+
+Between:
+**SoftCore Software Solutions, Inc.**
+400 Park Avenue, New York, NY 10022
+Represented by: Mark Patel, VP Licensing
+
+And:
+**BlueOcean Technologies GmbH**
+Friedrichstrasse 45, 10117 Berlin, Germany
+Represented by: Claudia Stein, Head of Business Development
+
+Purpose: To evaluate potential software licensing arrangements.
+
+1. **Confidential Information**: Source code, licensing terms, royalty structures, technical architecture.
+2. **Use Restrictions**: Receiving Party shall use Confidential Information solely for assessing a licensing deal.
+3. **Exceptions**: Public knowledge, independent development.
+4. **Return of Information**: Upon written request.
+5. **Term**: Four (4) years.
+6. **Remedies**: Injunctive relief.
+7. **Governing Law**: State of New York.
+
+_________________________
+Mark Patel, VP Licensing
+SoftCore Software Solutions, Inc.
+
+_________________________
+Claudia Stein, Head of Business Development
+BlueOcean Technologies GmbH",Non-disclosure Agreement
+"APPLICATION DEVELOPMENT & MAINTENANCE SLA
+
+This SLA is part of the Statement of Work (SOW) #2024-AD-01 for the development and ongoing support of the 'CustomerPortal' application by DevWorks Inc.
+
+1. SERVICE DESCRIPTION
+Services include: agile application development, bug fixes, minor enhancements, and technical support for the delivered application.
+
+2. DEVELOPMENT COMMITMENTS
+- **Sprint Velocity:** Provider will maintain an average velocity of 35 story points per 2-week sprint, +/- 10%.
+- **Code Quality:** All code must pass static analysis with zero critical vulnerabilities and a test coverage rate of >80%.
+- **Delivery Milestones:** Major release milestones will be met as defined in the project roadmap, with a grace period of +/- 5 business days.
+
+3. APPLICATION SUPPORT (POST-LAUNCH)
+For support tickets related to bugs in the production application:
+- **Severity 1 (Critical - System Down):** Response: 1 hour | Target Fix: 8 business hours
+- **Severity 2 (Major Function Impaired):** Response: 4 hours | Target Fix: 3 business days
+- **Severity 3 (Minor Defect):** Response: 1 business day | Target Fix: Next scheduled release
+- **Severity 4 (Cosmetic):** Response: 2 business days | Resolution: Prioritized in backlog
+
+4. APPLICATION PERFORMANCE
+- **Uptime:** The hosted application will maintain 99.9% availability.
+- **Page Load Time:** The 95th percentile of page load times for authenticated users shall be under 3 seconds.
+- **API Response Time:** The 95th percentile of API response times shall be under 500ms.
+
+5. REVIEWS
+A monthly review meeting will be held to discuss development progress, support ticket trends, and application performance metrics. Failure to meet support response or fix time targets for Severity 1 issues will result in a credit equal to 5% of the monthly support retainer.",SLA
+"OFFICE SUPPLIES BLANKET PURCHASE AGREEMENT
+
+This Blanket Purchase Agreement (""Agreement"") is entered into by and between GLOBAL FINANCIAL SERVICES INC. (""Customer""), with offices at 500 Madison Avenue, New York, NY 10022, and PRECISION OFFICE SOLUTIONS LLC (""Supplier""), with offices at 88 Commerce Road, Secaucus, NJ 07094.
+
+1. TERM. The term of this Agreement shall be one (1) year, commencing on June 1, 2024, and ending on May 31, 2025, unless terminated earlier pursuant to the terms herein.
+
+2. GOODS. Supplier agrees to supply Customer with office supplies, stationery, and breakroom products (""Goods"") as detailed in the attached Product Catalog and Price List (Exhibit A). Customer shall issue individual purchase orders (""POs"") referencing this Agreement.
+
+3. PRICING AND PAYMENT. Prices for the Goods shall be as set forth in Exhibit A. Supplier warrants that these prices are at or below market rates. Customer shall receive a 15% volume discount on all orders exceeding $5,000. All invoices are due Net 45. Pricing is fixed for the initial term.
+
+4. ORDERING AND DELIVERY. Orders shall be placed via Customer's electronic procurement system. Supplier agrees to deliver all Goods within three (3) business days of order receipt (""Delivery SLA"") to Customer's headquarters at the address above. Shipping costs are included in the unit prices for orders over $250.
+
+5. QUALITY. All Goods supplied shall be new, of merchantable quality, and fit for their intended purpose. Defective Goods may be returned for full credit or replacement at Supplier's expense.
+
+6. FORECAST. Customer shall provide Supplier with a non-binding quarterly forecast of its anticipated needs to assist Supplier with inventory planning.
+
+7. TERMINATION. Either party may terminate this Agreement for material breach upon thirty (30) days' written notice. Customer may terminate for convenience with fifteen (15) days' written notice.
+
+8. INDEPENDENT CONTRACTOR. Supplier is an independent contractor and not an agent or employee of Customer.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+GLOBAL FINANCIAL SERVICES INC.
+By: _________________________
+Name: Robert Chen
+Title: Director of Facilities
+
+PRECISION OFFICE SOLUTIONS LLC
+By: _________________________
+Name: Maria Gonzalez
+Title: President",Vendor
+"MEDICAL EQUIPMENT MAINTENANCE AND SERVICE CONTRACT
+
+This Medical Equipment Maintenance and Service Contract (""Contract"") is made as of March 1, 2025, between:
+
+COMMUNITY HEALTHCARE SYSTEM, a nonprofit healthcare system with hospitals and clinics throughout Oregon, with its principal office at 400 Health Plaza, Portland, OR 97201 (""Customer""); and
+
+BIOMED TECHNICAL SERVICES INC., a medical equipment service company with its principal place of business at 123 Medical Drive, Beaverton, OR 97005 (""Service Provider"").
+
+1. EQUIPMENT COVERED. Service Provider shall provide comprehensive maintenance and repair services for the medical equipment listed in Exhibit A (the ""Equipment""), which includes MRI machines, CT scanners, ultrasound systems, and patient monitoring equipment located at Customer's various facilities.
+
+2. SERVICES. Service Provider shall provide the following services for the Equipment:
+   a. Preventive maintenance performed quarterly or as recommended by the manufacturer
+   b. All necessary repairs, including parts and labor
+   c. 24/7/365 emergency service response
+   d. Software updates and calibration services
+   e. Regulatory compliance testing and documentation
+
+3. TERM. This Contract shall be effective from April 1, 2025, through March 31, 2028. This Contract shall automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term.
+
+4. COMPENSATION. Customer shall pay Service Provider a fixed annual fee of $425,000, payable in equal monthly installments of $35,416.67. This fee includes all parts, labor, and travel expenses for covered services. Additional charges will apply for services not covered under this Contract, such as damage caused by misuse or acts of nature.
+
+5. RESPONSE TIME. Service Provider guarantees the following response times:
+   a. Critical equipment failure: Response within 2 hours, repair within 8 hours
+   b. Major equipment failure: Response within 4 hours, repair within 24 hours
+   c. Minor issues: Response within 8 business hours, repair within 72 hours
+
+6. PARTS. Service Provider shall use only OEM parts or parts of equivalent quality. All replaced parts become the property of Service Provider.
+
+7. DOCUMENTATION. Service Provider shall maintain complete service records for each piece of Equipment and provide Customer with monthly service reports and regulatory compliance documentation.
+
+8. INSURANCE. Service Provider shall maintain professional liability insurance with limits of not less than $5,000,000 per occurrence and general liability insurance with limits of not less than $2,000,000 per occurrence.
+
+9. TRAINING. Service Provider shall provide annual training to Customer's clinical staff on proper operation and basic troubleshooting of the Equipment.
+
+10. TERMINATION. Either party may terminate this Contract for material breach upon sixty (60) days' written notice. Customer may terminate for convenience with ninety (90) days' written notice and payment of an early termination fee equal to three (3) months' service fees.
+
+11. GOVERNING LAW. This Contract shall be governed by the laws of the State of Oregon.
+
+AGREED AND ACCEPTED:
+
+COMMUNITY HEALTHCARE SYSTEM
+By: _________________________
+Name: Dr. Susan Mitchell
+Title: Director of Clinical Engineering
+
+BIOMED TECHNICAL SERVICES INC.
+By: _________________________
+Name: James Peterson
+Title: Service Director",Vendor

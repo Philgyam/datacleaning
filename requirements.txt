@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+onnxruntime
+pdfplumber
+easyocr
+pdf2image
+pillow
+numpy
