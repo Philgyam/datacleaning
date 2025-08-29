@@ -8,3 +8,5 @@ easyocr
 pdf2image
 pillow
 numpy
+scikit-learn
+python-multipart
